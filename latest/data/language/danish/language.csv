@@ -1,253 +1,241 @@
 ﻿state,key,svn,english,translation
-NEW,alert_type_co2_caption,2448,*X% Fatal,
-NEW,blackhole_part3_marcus2,2624,"Dock your ship with mine, Captain, and tell me when you're ready for me to come on board.  Please hurry!",
-NEW,blackhole_part3_marcusdata1,2624,"The Stargate data?  I can send that, Captain, but you'll have to give me a few minutes to access the data and set up the transmission.",
-NEW,blackhole_part3_marcusrescue1,2624,"I'm onboard, Captain.  Get us out of here!",
-NEW,blackhole_part3_marcuswarning1,2624,"My ship is falling apart from the gravitional forces, Captain.  I've sent the data that I can.  Please hurry and get me off this ship!",
-NEW,blackhole_part3_marcuswarning2,2624,"The reactor containment has failed, Captain.  The cabin is being flooded with radiation.  You have to get me out of here!",
-NEW,blackhole_part3_outcomea2,2624,"Thank you so much, Captain. I couldn't have succeeded without your help. I'm so grateful you took my call and were here for us when we needed you.",
-NEW,blackhole_part3_stargate1,2624,"Greetings, Captain.  Good luck with the rescue.  Remember the data onboard Marcus' ship is extremely valuable to us.  You'll need Marcus to transmit the data from his console before you can complete the rescue.",
-NEW,blackhole_part3_stargateoutcomea1,2624,"We're really disappointed in your choices, Captain.  You've let us down and you've let the whole Stargate Project down, with your incredibly narrow thinking.",
-NEW,blackhole_part3_stargateoutcomeb1,2624,"Well done on retrieving some of the data, Captain.  We would have preferred all of it, but we appreciate the rescue was under extreme duress.",
-NEW,blackhole_part3_stargateoutcomec1,2624,"Congratulations, Captain, on successfully recovering the science data from the stricken vessel.  This data represents a huge step forward in our understanding of high energy physics, and will hugely accelerate the Stargate Program.",
-NEW,calltoarms_harkenrailroad_2,2624,"There is a crisis underway, Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate.",
-NEW,calltoarms_harkenrailroad_6,2624,"I've marked the location of the shipwreck on your map as a Gold Highlight.  Good luck, Captain.",
-NEW,dialog_none,2448,None,
-NEW,dsi_part1_debrief1,2624,"Fantastic work, Captain.  I had high expectations, but the process was even more smooth than I hoped.  We've made ourselves known to the Andromeda Project now, but this is just the beginning.",
-NEW,dsi_part2_action_buyship,2448,Buy gas fuselage,
-NEW,dsi_part2_actuatorsintro5,2624,"One last thing, Captain.  I'm sure you've noticed, we aren't exactly surrounded by asteroids here.  I suggest you pair the station up with one of your FTL capable vessels, and jump them both to a suitable mining location.  You can leave the station there to do its work.",
-NEW,dsi_part2_firstpartcomplete,2624,"Excellent work, Captain.  On time and to specification, as usual.  The Andromeda Project have enough of that item now, so you may as well stop production and save the energy and materials.",
-NEW,dsi_part2_introcall1,2624,"Welcome back, Captain.  I've been taking a look at the schematics published by the Andromeda Project, and the next phase is going to need a huge upgrade to our facilities.",
-NEW,dsi_part2_introcall4,2624,"The first part is a Stargate Actuator.  This is something we can manufacture in our existing factory station, although it's a more complex production chain.  There won't be nearly enough resources available in the Marketplace, so we'll have to mine the local belt for minerals.",
-NEW,dsi_part2_introcall9,2624,"Time is now of the essence, Captain.  All three parts need to be produced, and I'm in more of a hurry than you may realise.  Keep me informed!",
-NEW,dsi_part2_isotopesintro1,2448,We need to produce 100 Stable Isotopes. This is a chemical compound we must synthesise and deliver in barrels to the Andromeda Project.,
-NEW,dsi_part2_objective_installscoop,2448,Install Hyperspace Scoop,
-NEW,dsi_part2_resinintro5,2624,"You'll need all of that equipment to get started.  I'd recommend Collectors, Refineries, and Chemical Labs, four each at least.  You'll also want Storage Tanks to buffer the intermediate products, and an upgrade to the Power Grid.",
-NEW,dsi_part2_scene_x1,2448,There's a situation brewing at our factory in the asteroid belt.  You'd better take a look.,
-NEW,dsi_part2_scene_x2,2448,I'll talk to him.,
-NEW,dsi_part2_scene_x3,2448,Raymond.  It's been quite a while.  How have you been?,
-NEW,dsi_part2_scene_x4,2448,"Captain, I'll take care of this.  My private security are on their way.  I'll keep him talking, but there's no need for bloodshed.",
-NEW,dsi_part2_scene_x5,2448,You were compensated for your work Raymond.  You signed the contract.,
-NEW,dsi_part2_scene_y1,2448,Is he in there?  Alexander?  Where is he?,
-NEW,dsi_part2_scene_y2,2448,I'm not going to ask again.  I demand to speak to Alexander Elistar.  Immediately!  I am armed!,
-NEW,dsi_part2_scene_y3,2448,How have I been?  You know exactly how I've been.  I'm here to collect my share.,
-NEW,dsi_part2_scene_y4,2448,"The designs were mine.  The patents were mine!  All of this, it's all built on my work.",
-NEW,dsi_part2_scene_y5,2448,"For pennies!  You screwed me, and now it's worth millions!",
-NEW,dsi_part2_scene_y6,2448,"I want my share.  Deal me in.  10% ownership of this new venture of yours.  I'm being reasonable, but the law is on my side.  Don't make me shut you down Alexander.",
-NEW,dsi_part2_scene_y7,2448,You've left me no choice.,
-NEW,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.",
-NEW,dsi_part2_scene_z1,2448,"This is Private Security vessel DOGMA, under exclusive contract to A.J.E Industries.",
-NEW,dsi_part2_scene_z2,2448,You are operating in a dangerous and threatening manner in the vicinity of an A.J.E corporate facility.,
-NEW,dsi_part2_scene_z3,2448,You are ordered to stand down and withdraw immediately.,
-NEW,dsi_part2_scene_z4,2448,We are authorised by deep space convention in the use of deadly force in defense of our client's assets.,
-NEW,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,
-NEW,dsi_part2_secondpartcomplete1,2448,"I'm sure you've noticed, we're making a small fortune from all of this.  Truth be told, I'm not really doing this for the revenue.  I already have more than I can ever spend.  But I'm running out of time.  The Doctors have made that clear to me.",
-NEW,dsi_part2_secondpartcomplete2,2448,"I've been around quite a few years.  I've had my share of success, built my empire, my fortune.  I live a comfortable life.  But I find myself thinking more and more about what I want to do with the time I have left.",
-NEW,dsi_part2_secondpartcomplete3,2448,I just want to be the first at something huge.  The first person to visit another galaxy.  Alexander James Elistar.  That's a name that people would remember.,
-NEW,dsi_part2_thirdpartcomplete1,2624,"We are all done, Captain.  That was an incredible display of industrialised power.  There's nobody even close to us in the Marketplace, and we basically are the Andromeda Project.  They need us now.",
-NEW,dsi_xthanks1,2624,"Thank you, Captain.  I appreciate the prompt payment.",
-NEW,dsi_xthanks2,2624,"Payment received, thank you, Captain.",
-NEW,dsi_xthanks3,2624,"I've received my share.  Excellent work, Captain.",
-NEW,mission_flightready_description1,2448,All ships must pass basic flight ready certification before being allowed on operations.,
-NEW,mission_flightready_engines,2448,Engines capable of propulsion,
-NEW,mission_flightready_engines_help,2448,Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them.,
-NEW,mission_flightready_ftl,2448,An FTL Drive capable of Hyperspace jumps,
-NEW,mission_sectorprotect_offer1,2624,"Thank you, Captain! We would never have survived without your assistance.",
-NEW,mission_sectorprotect_offer2,2624,"If you'd be interested, we'd be honoured to join forces with your fleet.",
-NEW,mission_sectorprotect_offer3,2624,"Choose your reward, Captain",
-NEW,mission_tiddlets_alldelivered4,2448,Please be very careful when choosing your hyperspace route.,
-NEW,mission_tiddlets_delivered,2448,We have delivered *X out of 8 Tiddlets.,
-NEW,mission_tiddlets_failure,2448,What the hell happened? We trusted you with those Tiddlets and you let us down!,
-NEW,mission_tiddlets_invite1,2448,Greetings! We are looking for a pilot who can help us with an important animal welfare matter.,
-NEW,mission_tiddlets_notenough,2448,But we trusted you to look after their safety. You've let us down.,
-NEW,mission_tiddletssale_accepted1,2448,If you have Tiddlets available then bring them to us and we will reward you handsomely.,
-NEW,mission_tiddletssale_accepted2,2448,We won't ask any questions as to where they came from. But we will need every Tiddlet you have - so we can be sure there is at least one male among the litter.,
-NEW,mission_tiddletssale_invite2,2448,Stop by your nearest Contract Board and we might be able to make a deal.,
-NEW,mission_tiddletssale_offer,2448,We will pay $*X for every Tiddlet you have.,
-NEW,object_copperminerals,2448,Copper Minerals,
-NEW,object_preciousmetals,2448,Precious Metals,
-NEW,object_scrubber_description,2448,Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked.,
-NEW,opentextcrawl_6,2448,There are few who believe them.,
-NEW,opentextcrawl_survival_5,2448,Scientists believe it will eventually consume the entire galaxy.,
-NEW,order_none,2448,None,
-NEW,rise_foundship6,2624,"I have to know what happened, Captain.",
-NEW,rise_part1_briefing3,2624,"I suspect foul play here, Captain. There's no way a ship like the Celestial Hammer would just vanish. Something must have happened, and I'm assuming the worst.",
-NEW,save_demofullgame_load_body,2448,The demo of The Last Starship can only load save games saved with the Demo.,
-NEW,stargate_testfire_help,2624,"Captain, the Stargate is ready for its first test. If supplied with enough power it should provide us access to a nearby uncharted sector.",
-NEW,tiddlets_part1_delivered4,2624,"Incredible work, Captain. I can't believe how much we've seen, in such a short period of time.",
-NEW,tiddlets_part1_delivered7,2624,"These findings will make an incredible research paper, Captain.  I'll be sure to credit you as the pilot who found the first living specimens.  I would offer to name the creatures after you, but they already have a name, so apologies for not being able to honour that tradition.",
-NEW,tiddlets_part1_swanson4,2624,"Anyway, thank you for your work, Captain. Here's a reward for your efforts.",
-NEW,tiddlets_part2_debrief3,2624,"Thank you, Captain!",
-NEW,tiddlets_part2_finalexperiment1,2624,"*X Tiddlets now on board!  Fascinating, Captain.  It appears the Tiddlet reproductive process occurs even at incredibly short hyperspace distances.\nHow do they find the time?",
-NEW,tiddlets_part2_return2,2624,"That's such a horrible thing to witness.\nWe can't allow this sort of experiment to be done again, doctor. It's so unethical.",
-NEW,tiddlets_part2_return5,2624,"There's something else.  There's a reading showing up on the sensors, deep inside the core of the dead tiddlets.\nBring them all back to me, Captain. I think we've done enough for today.",
-NEW,tiddlets_part2_setup1,2624,"Welcome back, Captain! I must say, the corridors at the Institute have been alive with excitement over this wondrous new lifeform. My paper has already been provisionally accepted into all the top nature journals, which makes me so proud.",
-NEW,tiddlets_part2_setup6,2624,"We need you to take the tiddlets on a series of specific hyperspace jumps. We will be recording the effect on their reproductive process and on their physiology. All... well, most of these experiments can be done hopefully without any harm coming to the creatures.",
-NEW,tiddlets_part2_setup9,2624,"But with your permission, we can begin. Install the new sensors first, Captain. And be sure to stock up on FTL fuel if you need to. Three or four jumps ought to be enough.",
-NEW,tiddlets_part2_shortjump1,2624,"*X Tiddlets so far.  This is all working very well, Captain.  Now onto the real science.",
-NEW,tiddlets_part3_artemis_debrief5,2624,"I'll be in touch if I need your help, Captain.",
-NEW,tiddlets_part3_brokenhopdrive3,2624,"Dismantle the Hop Drive, Captain, and I'll send a shuttle to collect it.  I want you to replace the Hop Drive with a conventional FTL drive, for the final part of the experiment.  I'll send a replacement FTL drive in the delivery shuttle.",
-NEW,tiddlets_part3_marcus,2624,"I don't think I had the chance to properly thank you, Captain. You risked your life for us.  And now my twin is ten years older than me! It's taken some getting used to.",
-NEW,tiddlets_part3_martinez_a3,2624,"I've put the rescue ship up for sale. I was asking $1M, but you can have it for half that price if you like.  Thank you, Captain.  You'll always be welcome with us.",
-NEW,tiddlets_part3_martinez_b1,2624,"Hello, Captain.  How have you been? Things have been tough here.",
-NEW,tiddlets_part3_martinez_b4,2624,"I hope it was worth it for you, Captain.",
-NEW,tiddlets_part3_martinez_c6,2624,"I don't want to talk to you, Captain.  Yes, the ship is for sale.  Take it.  I don't ever want to see that ship, or you, again.  Do not call me again.",
-NEW,tiddlets_part3_morehops,2624,"Excellent.  It's working, as I knew it would.  Give us three more hops, Captain.",
-NEW,tiddlets_part3_setup1,2624,"The work continues, Captain. There is so much more to these Tiddlets than we realised.",
-NEW,tiddlets_part3_swanson_a1,2624,"Incredible work, Captain. I'm not sure how you managed that, but I'm true to my word.  I'll wire the funds to Dr. Martinez, with a sales bonus of $100k for you.  Bring the ship back to the Institute, and let's put it to use.",
-NEW,tiddlets_part3_swanson_b1,2624,"Good work, Captain. That's a good price.  I'll send the funds to Dr Martinez.  You've earned a sales bonus of $40k.  Bring the ship back to the Institute, and let's put it to use.",
-NEW,tiddlets_part3_swanson_debriefa1,2624,"Well done, Captain.  Everything has worked exactly as I predicted, and we now have an excellent harvest on the farm ship.  More importantly, you've shown the way.",
-NEW,tiddlets_part3_swanson_debriefa2,2624,"I think I can take it from here, Captain.  My engineers tell me they'll have the Hop Drive fitted to the farm ship in just a few days.  In fact, we are close to automating the entire Tiddlet Harvest process with this one ship.",
-NEW,tiddlets_part3_swanson_debriefa3,2624,"I knew we could rely on you, Captain.  Thank you for showing the highest degrees of professionalism.",
-NEW,tiddlets_part3_swanson_debriefb4,2624,"Mark my words, Captain.  You will bitterly regret crossing me.",
-NEW,tiddlets_part3_swanson_finalobjective2,2624,"You know what to do, Captain.  A couple of very long jumps ought to be enough.  Bring them all back to me when it's done.",
-NEW,tiddlets_part4_debrief_artemis_a1,2624,"I want to thank you for helping, Captain, when it counted. For doing the right thing. I'll split the remaining grant money I have with you. You deserve it.",
-NEW,tiddlets_part4_debrief_artemis_a3,2624,"But I'd recommend you never bring a third aboard.  Look after them, Captain. I know you will.",
-NEW,tiddlets_part4_debrief_artemis_b3,2624,"I suggest you look after them from now on, Captain. It won't atone for the things you've done, but it's a start.",
-NEW,tiddlets_part4_rescue_swanson5,2624,"You have to help us, Captain.",
-NEW,tutorial_mininggetinrange,2448,Move your ship until the mineral patch is in the range of fire.,
-NEW,tutorial_miningselecttarget,2448,Target a Tilium Ore patch by clicking on one while having a mining laser selected.,
-NEW,tutorial_miningsuccess,2624,"Well done, you have produced Tilium Cystals.",
-NEW,tutorial_miningwaitsmelter,2448,Perfect! Now wait for your smelter to smelt the Tilium Ore.,
-NEW,tutorial_wrapup3,2624,"Many different types of contract are now available to you.\n\nHowever, you must stay alert, Captain. There are reports of even more lucrative opportunities that you'll have to find by yourself.",
-NEW,wolf_part1_sendingwreckage,2624,"They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.",
-NEW,wolf_part3_debrief1,2624,"Congratulations, Captain. Your performance in the destruction of the Pirate Vessel exceeded all expectations!",
-NEW,wolf_part3_debrief5,2624,"Farewell, Captain. Your dedication to justice and the safety of our sector will be remembered.",
-NEW,settings_language_category,3561,LANGUAGE,
-NEW,settings_softwarecursor,3561,Software Mouse Cursor,
-NEW,settings_softwarecursor_tooltip,3561,The game renders the mouse cursor instead of the operating system.,
-NEW,settings_softwarecursorsize,3561,Software Mouse Size,
-NEW,settings_mousesize_small,3561,Small,
-NEW,settings_mousesize_medium,3561,Medium,
-NEW,settings_mousesize_large,3561,Large,
-NEW,settings_mousesize_huge,3561,Huge,
-NEW,settings_opengamefolder,3561,OPEN GAME FOLDER,
-NEW,settings_communicator_speed,3561,Character text speed,
-NEW,settings_camerapan_speed,3561,Camera pan speed,
-NEW,settings_slowest,3561,Slowest,
-NEW,settings_slow,3561,Slow,
-NEW,settings_normal,3561,Normal,
-NEW,settings_fast,3561,Fast,
-NEW,settings_fastest,3561,Fastest,
-NEW,newmainmenu_multisystemsim,3561,Multi-System Simulation,
-NEW,newmainmenu_multisystemsimtooltip,3561,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.",
-NEW,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,
-NEW,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,
-NEW,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,
-NEW,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,
-NEW,hud_atmosphere_no_oxygen,3561,NO OXYGEN,
-NEW,hud_habitation_info_title,3561,HABITATION,
-NEW,hud_habitation_info_cabins,3561,*X / *Y CABINS,
-NEW,hud_habitation_info_sewage,3561,*X SEWAGE,
-NEW,equipment_multiple_selected,3561,MULTIPLE RECIPES,
-NEW,tactical_dockingnotpossible,3561,DOCKING IMPOSSIBLE,
-NEW,tactical_thrustersrequired,3561,THRUSTERS REQUIRED,
-NEW,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,
-NEW,orders_systemscope,3561,SYSTEM-WIDE ORDERS,
-NEW,order_tooltip_salvage,3561,Allow drones to gather salvage,
-NEW,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)",
-NEW,order_tooltip_repairhull,3561,Allow drones to repair ship hull,
-NEW,order_tooltip_suitson,3561,Make crew put on spacesuits if available,
-NEW,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,
-NEW,order_tooltip_weaponsactive,3561,Allow weapons to fire,
-NEW,order_tooltip_fleetlogistics,3561,Allow logistics transfers between ships,
-NEW,order_tooltip_battlestations,3561,Battle Stations,
-NEW,order_tooltip_mining,3561,Allow mining lasers to fire,
-NEW,order_tooltip_autotradeactive,3561,Allow auto trades to execute,
-NEW,order_tooltip_advancedlogistics,3561,Allow interstellar logistics to execute,
-NEW,object_fighterbay,3561,Fighter Bay,
-NEW,object_fighterbay_description,3561,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.",
-NEW,fighter_fuel,3561,FUEL: *X%,
-NEW,fighter_ammo,3561,BULLETS: *X,
-NEW,fighter_quantity,3561,*X / *Y,
-NEW,fighter_health_text,3561,HULL,
-NEW,fighter_ammo_text,3561,BULLETS,
-NEW,fighter_fuel_text,3561,FUEL,
-NEW,fighter_refuelling_text,3561,REFUELLING...,
-NEW,fighter_create,3561,CREATE FIGHTER,
-NEW,fighter_state_attackinglayer,3561,ATTACKING *X,
-NEW,fighter_state_attackingfighter,3561,ATTACKING ENEMY FIGHTER,
-NEW,fighter_state_returningtobay,3561,RETURNING TO BAY,
-NEW,fighter_state_idleinfreespace,3561,SEARCHING FOR BAY,
-NEW,translationeditor_copytoclipboard,3561,Copy,
-NEW,translationeditor_usethistranslation,3561,Use This Translation,
-NEW,translationeditor_none,3561,None,
-NEW,translationeditor_yourchanges,3561,Your Changes,
-NEW,translationeditor_new,3561,New,
-NEW,translationeditor_updated,3561,Updated,
-NEW,translationeditor_showpreview,3561,Show Preview,
-NEW,translationeditor_english,3561,English,
-NEW,translationeditor_nenglish,3561,New English,
-NEW,translationeditor_previous,3561,Previous,
-NEW,translationeditor_fallback,3561,Suggestion,
-NEW,translationeditor_youredit,3561,Your Change,
-NEW,translationeditor_original,3561,Approved,
-NEW,translationeditor_empty,3561,No Manually Approved Translation Yet,
-NEW,translationeditor_empty_original_tooltip1,3561,Unformatted Approved translation,
-NEW,translationeditor_empty_original_tooltip2,3561,Formatted Approved translation,
-NEW,translationeditor_empty_original_tooltip3,3561,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.",
-NEW,translationeditor_fallback_tooltip1,3561,Suggested Translation,
-NEW,translationeditor_fallback_tooltip2,3561,Formatted Suggested Translation,
-NEW,translationeditor_fallback_tooltip3,3561,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.",
-NEW,translationeditor_previousenglish_tooltip1,3561,Previous English Phrase,
-NEW,translationeditor_previousenglish_tooltip2,3561,Formatted Previous English phrase,
-NEW,translationeditor_previousenglish_tooltip3,3561,The English phrase that was used in the previous version of the game.,
-NEW,translationeditor_previoustranslation_tooltip1,3561,Previous Translation Phrase,
-NEW,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,
-NEW,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,
-NEW,creditstitle_special,3561,Special Thanks,
-NEW,settings_userinterface,3563,UI & GAME,
-NEW,settings_graphics,3563,GRAPHICS,
-NEW,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,
-NEW,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),
-NEW,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,
-NEW,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,
-NEW,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,
-NEW,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,
-NEW,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,
-NEW,techtree_node_title_fighters1,3565,Fighters,
-NEW,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,
-NEW,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,
-NEW,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,
-NEW,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,
-NEW,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,
-NEW,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,
-NEW,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,
-NEW,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,
-NEW,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,
-NEW,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,
-NEW,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,
-NEW,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,
-NEW,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,
-NEW,boost_fighterarmour,3565,Fighter Armour +*X%,
-NEW,boost_fighterspeed,3565,Fighter Speed +*X%,
-NEW,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,
-UPDATED,mainmenu_gamemode_freeroam_tooltip,3561,"You are free to pursue any career at your own pace. No anomaly, no stargate.",
-PREVIOUS,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.",Du er fri til at forfølge enhver karriere i dit eget tempo. Ingen anomali ingen stargate.
-UPDATED,newmainmenu_parallax,3561,Parallax,
-PREVIOUS,newmainmenu_parallax,2448,Parallax effect,Parallakse-effekt
-UPDATED,settings_instantshipswitch_description,3561,Skip rotation and panning effect when switching between ships.,
-PREVIOUS,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Når der skiftes mellem skibe, spring overgang over"
-UPDATED,translationeditor_new_tooltip1,3561,Unformatted New Translation,
-PREVIOUS,translationeditor_new_tooltip1,3054,Unformatted new translation,Uformateret ny oversættelse
-UPDATED,translationeditor_new_tooltip2,3561,Formatted New Translation,
-PREVIOUS,translationeditor_new_tooltip2,3054,Formatted new translation,Formateret ny oversættelse
-UPDATED,translationeditor_original_tooltip1,3561,Unformatted Approved Translation,
-PREVIOUS,translationeditor_original_tooltip1,3054,Unformatted original translation,Uformateret oprindelig oversættelse
-UPDATED,translationeditor_original_tooltip2,3561,Formatted Approved Translation,
-PREVIOUS,translationeditor_original_tooltip2,3054,Formatted original translation,Formateret oprindelig oversættelse
-UPDATED,translationeditor_original_tooltip3,3561,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.",
-PREVIOUS,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,Dette er det der aktuelt bruges i spillet.
-UPDATED,translationeditor_unmodified,3561,Unmodified,
-PREVIOUS,translationeditor_unmodified,3054,Unmodified Phrases,Uændrede fraser
-UPDATED,wolf_part1_completion3,3561,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,
-PREVIOUS,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Indtil videre har de ikke efterladt en eneste levende vidne. Men sensordataene fortæller hele historien. Vi har formået at udtrække endnu et sensorbillede af angriberen.
-UPDATED,settings_arraytextures,3563,Smooth Tiles,
-PREVIOUS,settings_arraytextures,2624,Use Array Textures,Brug array-teksturer
-UPDATED,settings_dynamiclighting,3563,Dynamic Lighting,
-PREVIOUS,settings_dynamiclighting,2675,Use Dynamic Lighting,Brug dynamisk belysning
+CURRENT,alert_type_co2_caption,2448,*X% Fatal,*X% Dødelig
+CURRENT,blackhole_part3_marcus2,2624,"Dock your ship with mine, Captain, and tell me when you're ready for me to come on board.  Please hurry!","Dok dit skib med mit, kaptajn, og sig til, når du er klar til, at jeg kan komme ombord. Skynd dig venligst!"
+CURRENT,blackhole_part3_marcusdata1,2624,"The Stargate data?  I can send that, Captain, but you'll have to give me a few minutes to access the data and set up the transmission.","Stargate-dataene? Jeg kan sende dem, kaptajn, men du bliver nødt til at give mig et par minutter til at få adgang til dataene og opsætte transmissionen."
+CURRENT,blackhole_part3_marcusrescue1,2624,"I'm onboard, Captain.  Get us out of here!","Jeg er ombord, kaptajn. Få os ud herfra!"
+CURRENT,blackhole_part3_marcuswarning1,2624,"My ship is falling apart from the gravitional forces, Captain.  I've sent the data that I can.  Please hurry and get me off this ship!","Mit skib falder fra hinanden på grund af de gravitationelle kræfter, kaptajn. Jeg har sendt de data, jeg kunne. Skynd dig og få mig af dette skib!"
+CURRENT,blackhole_part3_marcuswarning2,2624,"The reactor containment has failed, Captain.  The cabin is being flooded with radiation.  You have to get me out of here!","Reaktorens indkapsling er svigtet, kaptajn. Kabinen fyldes med stråling. Du må få mig ud herfra!"
+CURRENT,blackhole_part3_outcomea2,2624,"Thank you so much, Captain. I couldn't have succeeded without your help. I'm so grateful you took my call and were here for us when we needed you.","Mange tak, kaptajn. Jeg kunne ikke have klaret det uden din hjælp. Jeg er så taknemmelig for, at du tog imod min opkald og var her for os, da vi havde brug for dig."
+CURRENT,blackhole_part3_stargate1,2624,"Greetings, Captain.  Good luck with the rescue.  Remember the data onboard Marcus' ship is extremely valuable to us.  You'll need Marcus to transmit the data from his console before you can complete the rescue.","Hilsner, kaptajn. Held og lykke med redningen. Husk, at dataene ombord på Marcus' skib er yderst værdifulde for os. Du får brug for, at Marcus sender dataene fra hans konsol, før du kan fuldføre redningen."
+CURRENT,blackhole_part3_stargateoutcomea1,2624,"We're really disappointed in your choices, Captain.  You've let us down and you've let the whole Stargate Project down, with your incredibly narrow thinking.","Vi er virkelig skuffede over dine valg, kaptajn. Du har svigtet os, og du har svigtet hele Stargate-projektet med din utroligt snævre tankegang."
+CURRENT,blackhole_part3_stargateoutcomeb1,2624,"Well done on retrieving some of the data, Captain.  We would have preferred all of it, but we appreciate the rescue was under extreme duress.","Godt klaret med at hente nogle af dataene, kaptajn. Vi ville have foretrukket alle dataene, men vi forstår, at redningen foregik under ekstremt pres."
+CURRENT,blackhole_part3_stargateoutcomec1,2624,"Congratulations, Captain, on successfully recovering the science data from the stricken vessel.  This data represents a huge step forward in our understanding of high energy physics, and will hugely accelerate the Stargate Program.","Tillykke, kaptajn, med at have indsamlet videnskabsdataene fra det nødstedte fartøj. Disse data repræsenterer et kæmpe fremskridt i vores forståelse af højenergifysik og vil markant fremskynde Stargate-programmet."
+CURRENT,calltoarms_harkenrailroad_2,2624,"There is a crisis underway, Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate.","Der er en krise under opsejling, kaptajn. Handelsfartøjer forsvinder over hele sektoren. Jeg mistænker skumle forhold og har brug for din hjælp til at undersøge sagen."
+CURRENT,calltoarms_harkenrailroad_6,2624,"I've marked the location of the shipwreck on your map as a Gold Highlight.  Good luck, Captain.","Jeg har markeret skibsvragets placering på dit kort som en guld-highlight. Held og lykke, kaptajn."
+CURRENT,dialog_none,2448,None,Ingen
+CURRENT,dsi_part1_debrief1,2624,"Fantastic work, Captain.  I had high expectations, but the process was even more smooth than I hoped.  We've made ourselves known to the Andromeda Project now, but this is just the beginning.","Fantastisk arbejde, kaptajn. Jeg havde store forventninger, men processen gik endnu glattere, end jeg havde håbet. Vi har nu gjort os kendt for Andromeda-projektet, men dette er kun begyndelsen."
+CURRENT,dsi_part2_action_buyship,2448,Buy gas fuselage,Køb gas-skrog
+CURRENT,dsi_part2_actuatorsintro5,2624,"One last thing, Captain.  I'm sure you've noticed, we aren't exactly surrounded by asteroids here.  I suggest you pair the station up with one of your FTL capable vessels, and jump them both to a suitable mining location.  You can leave the station there to do its work.","En sidste ting, kaptajn. Jeg er sikker på, at du har bemærket, at vi ikke ligefrem er omgivet af asteroider her. Jeg foreslår, at du parrer stationen med et af dine FTL-kompatible fartøjer og hopper dem begge til en egnet minedestination. Du kan lade stationen blive der for at udføre sit arbejde."
+CURRENT,dsi_part2_firstpartcomplete,2624,"Excellent work, Captain.  On time and to specification, as usual.  The Andromeda Project have enough of that item now, so you may as well stop production and save the energy and materials.","Fremragende arbejde, kaptajn. Til tiden og efter specifikation, som sædvanligt. Andromeda-projektet har nu nok af denne genstand, så du kan lige så godt stoppe produktionen og spare energi og materialer."
+CURRENT,dsi_part2_introcall1,2624,"Welcome back, Captain.  I've been taking a look at the schematics published by the Andromeda Project, and the next phase is going to need a huge upgrade to our facilities.","Velkommen tilbage, kaptajn. Jeg har kigget på de skemaer, som Andromeda-projektet har offentliggjort, og næste fase vil kræve en stor opgradering af vores faciliteter."
+CURRENT,dsi_part2_introcall4,2624,"The first part is a Stargate Actuator.  This is something we can manufacture in our existing factory station, although it's a more complex production chain.  There won't be nearly enough resources available in the Marketplace, so we'll have to mine the local belt for minerals.","Den første del er en Stargate-aktuator. Dette kan vi fremstille på vores eksisterende fabriksstation, selvom det er en mere kompleks produktionskæde. Der vil ikke være nær nok ressourcer tilgængelige på markedet, så vi bliver nødt til at udvinde mineraler fra den lokale bælte."
+CURRENT,dsi_part2_introcall9,2624,"Time is now of the essence, Captain.  All three parts need to be produced, and I'm in more of a hurry than you may realise.  Keep me informed!","Tiden er nu afgørende, kaptajn. Alle tre dele skal produceres, og jeg har mere travlt, end du måske tror. Hold mig opdateret!"
+CURRENT,dsi_part2_isotopesintro1,2448,We need to produce 100 Stable Isotopes. This is a chemical compound we must synthesise and deliver in barrels to the Andromeda Project.,"Vi skal producere 100 stabile isotoper. Dette er en kemisk forbindelse, som vi skal syntetisere og levere i tønder til Andromeda-projektet."
+CURRENT,dsi_part2_objective_installscoop,2448,Install Hyperspace Scoop,Installer Hyperspace-opsamler
+CURRENT,dsi_part2_resinintro5,2624,"You'll need all of that equipment to get started.  I'd recommend Collectors, Refineries, and Chemical Labs, four each at least.  You'll also want Storage Tanks to buffer the intermediate products, and an upgrade to the Power Grid.","Du får brug for alt det udstyr for at komme i gang. Jeg vil anbefale Opsamler, Raffinaderier og Kemisk Laboratorier – mindst fire af hver. Du vil også få brug for Lager Beholder til at buffer de mellemliggende produkter samt en opgradering af strømnettet."
+CURRENT,dsi_part2_scene_x1,2448,There's a situation brewing at our factory in the asteroid belt.  You'd better take a look.,Der er en situation under opsejling på vores fabrik i asteroidebæltet. Du bør tage et kig.
+CURRENT,dsi_part2_scene_x2,2448,I'll talk to him.,Jeg vil snakke med ham
+CURRENT,dsi_part2_scene_x3,2448,Raymond.  It's been quite a while.  How have you been?,Raymond. Det er længe siden. Hvordan har du haft det?
+CURRENT,dsi_part2_scene_x4,2448,"Captain, I'll take care of this.  My private security are on their way.  I'll keep him talking, but there's no need for bloodshed.","Kaptajn, jeg tager mig af det. Min private sikkerhed er på vej. Jeg holder ham i samtale, men der er ingen grund til blodudgydelse."
+CURRENT,dsi_part2_scene_x5,2448,You were compensated for your work Raymond.  You signed the contract.,"Du blev kompenseret for dit arbejde, Raymond. Du underskrev kontrakten."
+CURRENT,dsi_part2_scene_y1,2448,Is he in there?  Alexander?  Where is he?,Er han derinde? Alexander? Hvor er han?
+CURRENT,dsi_part2_scene_y2,2448,I'm not going to ask again.  I demand to speak to Alexander Elistar.  Immediately!  I am armed!,Jeg vil ikke spørge igen. Jeg kræver at tale med Alexander Elistar. Med det samme! Jeg er bevæbnet!
+CURRENT,dsi_part2_scene_y3,2448,How have I been?  You know exactly how I've been.  I'm here to collect my share.,"Hvordan har jeg haft det? Du ved præcis, hvordan jeg har haft det. Jeg er her for at hente min andel."
+CURRENT,dsi_part2_scene_y4,2448,"The designs were mine.  The patents were mine!  All of this, it's all built on my work.","Designene var mine. Patentene var mine! Alt dette, det er alt sammen bygget på mit arbejde."
+CURRENT,dsi_part2_scene_y5,2448,"For pennies!  You screwed me, and now it's worth millions!","For småpenge! Du snyder mig, og nu er det værd millioner!"
+CURRENT,dsi_part2_scene_y6,2448,"I want my share.  Deal me in.  10% ownership of this new venture of yours.  I'm being reasonable, but the law is on my side.  Don't make me shut you down Alexander.","Jeg vil have min andel. Tag mig med i aftalen. 10% ejerskab af denne nye forretning, du har gang i. Jeg er rimelig, men loven er på min side. Tving mig ikke til at lukke dig ned, Alexander."
+CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,Du har ikke efterladt mig noget valg.
+CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Jeg kommer efter dig, Alexander, og denne gang beder jeg ikke om 10%. Jeg vil have det hele."
+CURRENT,dsi_part2_scene_z1,2448,"This is Private Security vessel DOGMA, under exclusive contract to A.J.E Industries.","Dette er privat sikkerhedsskib DOGMA, under eksklusiv kontrakt med A.J.E Industries."
+CURRENT,dsi_part2_scene_z2,2448,You are operating in a dangerous and threatening manner in the vicinity of an A.J.E corporate facility.,Du opererer på en farlig og truende måde i nærheden af et A.J.E.-firmaanlæg.
+CURRENT,dsi_part2_scene_z3,2448,You are ordered to stand down and withdraw immediately.,Du beordres til at standse og trække dig tilbage øjeblikkeligt.
+CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in the use of deadly force in defense of our client's assets.,Vi er autoriseret af deep space-konventionen til at anvende dødelig magt til forsvar af vores klients aktiver.
+CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,DER VIL IKKE BLIVE GIVET YDERLIGERE ADVARSEL.
+CURRENT,dsi_part2_secondpartcomplete1,2448,"I'm sure you've noticed, we're making a small fortune from all of this.  Truth be told, I'm not really doing this for the revenue.  I already have more than I can ever spend.  But I'm running out of time.  The Doctors have made that clear to me.","Jeg er sikker på, at du har bemærket, at vi tjener en mindre formue på alt dette. Sandheden er, at jeg ikke gør dette for indtægterne. Jeg har allerede mere, end jeg nogensinde kan bruge. Men jeg er ved at løbe tør for tid. Lægerne har gjort det klart for mig."
+CURRENT,dsi_part2_secondpartcomplete2,2448,"I've been around quite a few years.  I've had my share of success, built my empire, my fortune.  I live a comfortable life.  But I find myself thinking more and more about what I want to do with the time I have left.","Jeg har været omkring et godt stykke tid. Jeg har haft min del af succes, bygget mit imperium, min formue. Jeg lever et komfortabelt liv. Men jeg finder mig selv tænke mere og mere på, hvad jeg vil gøre med den tid, jeg har tilbage."
+CURRENT,dsi_part2_secondpartcomplete3,2448,I just want to be the first at something huge.  The first person to visit another galaxy.  Alexander James Elistar.  That's a name that people would remember.,"Jeg vil bare være den første til noget stort. Den første person til at besøge en anden galakse. Alexander James Elistar. Det er et navn, folk vil huske."
+CURRENT,dsi_part2_thirdpartcomplete1,2624,"We are all done, Captain.  That was an incredible display of industrialised power.  There's nobody even close to us in the Marketplace, and we basically are the Andromeda Project.  They need us now.","Vi er færdige, kaptajn. Det var en utrolig demonstration af industrialiseret magt. Der er ingen, der engang kommer i nærheden af os på markedet, og vi er reelt set Andromeda-projektet. De har brug for os nu."
+CURRENT,dsi_xthanks1,2624,"Thank you, Captain.  I appreciate the prompt payment.","Tak, kaptajn. Jeg værdsætter den hurtige betaling."
+CURRENT,dsi_xthanks2,2624,"Payment received, thank you, Captain.","Betaling modtaget, tak kaptajn."
+CURRENT,dsi_xthanks3,2624,"I've received my share.  Excellent work, Captain.","Jeg har modtaget min andel. Fremragende arbejde, kaptajn."
+CURRENT,mission_flightready_description1,2448,All ships must pass basic flight ready certification before being allowed on operations.,"Alle skibe skal bestå en grundlæggende flyveklar-certificering, før de får lov til at deltage i operationer."
+CURRENT,mission_flightready_engines,2448,Engines capable of propulsion,"Motorer, der kan levere fremdrift"
+CURRENT,mission_flightready_engines_help,2448,Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them.,Motorer til fremdrift. Testaffyr dine motorer (fra TACTICAL-visningen) for at certificere dem.
+CURRENT,mission_flightready_ftl,2448,An FTL Drive capable of Hyperspace jumps,"Et FTL-drev, der kan foretage hyperspace-hop"
+CURRENT,mission_sectorprotect_offer1,2624,"Thank you, Captain! We would never have survived without your assistance.","Tak, kaptajn! Vi ville aldrig have overlevet uden din hjælp."
+CURRENT,mission_sectorprotect_offer2,2624,"If you'd be interested, we'd be honoured to join forces with your fleet.","Hvis du er interesseret, ville vi være beæret over at slutte os til din flåde."
+CURRENT,mission_sectorprotect_offer3,2624,"Choose your reward, Captain","Vælg din belønning, kaptajn"
+CURRENT,mission_tiddlets_alldelivered4,2448,Please be very careful when choosing your hyperspace route.,"Vær meget forsigtig, når du vælger din hyperspace-rute."
+CURRENT,mission_tiddlets_delivered,2448,We have delivered *X out of 8 Tiddlets.,Vi har leveret *X ud af 8 Tiddlets.
+CURRENT,mission_tiddlets_failure,2448,What the hell happened? We trusted you with those Tiddlets and you let us down!,"Hvad i alverden skete der? Vi stolede på dig med de Tiddlets, og du svigtede os!"
+CURRENT,mission_tiddlets_invite1,2448,Greetings! We are looking for a pilot who can help us with an important animal welfare matter.,"Hilsner! Vi leder efter en pilot, der kan hjælpe os med en vigtig sag om dyrevelfærd."
+CURRENT,mission_tiddlets_notenough,2448,But we trusted you to look after their safety. You've let us down.,"Men vi stolede på, at du ville sørge for deres sikkerhed. Du har svigtet os."
+CURRENT,mission_tiddletssale_accepted1,2448,If you have Tiddlets available then bring them to us and we will reward you handsomely.,"Hvis du har Tiddlets til rådighed, så bring dem til os, og vi vil belønne dig rundhåndet."
+CURRENT,mission_tiddletssale_accepted2,2448,We won't ask any questions as to where they came from. But we will need every Tiddlet you have - so we can be sure there is at least one male among the litter.,"Vi vil ikke stille spørgsmål om, hvor de kommer fra. Men vi får brug for alle Tiddlets, du har – så vi kan være sikre på, at der er mindst én han blandt kuldet."
+CURRENT,mission_tiddletssale_invite2,2448,Stop by your nearest Contract Board and we might be able to make a deal.,"Besøg dit nærmeste kontrakt sted, så kan vi muligvis indgå en aftale."
+CURRENT,mission_tiddletssale_offer,2448,We will pay $*X for every Tiddlet you have.,"Vi betaler $*X for hver Tiddlet, du har."
+CURRENT,object_copperminerals,2448,Copper Minerals,Kobber mineraler
+CURRENT,object_preciousmetals,2448,Precious Metals,Ædel metaller
+CURRENT,object_scrubber_description,2448,Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked.,"Udtrækker kuldioxid fra atmosfæren. Udgangen skal ledes til en lagertank, ellers vil det blive blokeret."
+CURRENT,opentextcrawl_6,2448,There are few who believe them.,"Der er få, der tror på dem."
+CURRENT,opentextcrawl_survival_5,2448,Scientists believe it will eventually consume the entire galaxy.,"Forskere mener, at det til sidst vil opsluge hele galaksen."
+CURRENT,order_none,2448,None,Ingen
+CURRENT,rise_foundship6,2624,"I have to know what happened, Captain.","Jeg er nødt til at vide, hvad der skete, kaptajn."
+CURRENT,rise_part1_briefing3,2624,"I suspect foul play here, Captain. There's no way a ship like the Celestial Hammer would just vanish. Something must have happened, and I'm assuming the worst.","Jeg mistænker skumle forhold her, kaptajn. Der er ingen måde, et skib som Celestial Hammer bare kan forsvinde på. Noget må være sket, og jeg frygter det værste."
+CURRENT,save_demofullgame_load_body,2448,The demo of The Last Starship can only load save games saved with the Demo.,"Demoen af The Last Starship kan kun indlæse gemte spil, der er gemt med Demoen."
+CURRENT,stargate_testfire_help,2624,"Captain, the Stargate is ready for its first test. If supplied with enough power it should provide us access to a nearby uncharted sector.","Kaptajn, Stargate er klar til sin første test. Hvis den får tilført nok strøm, bør den give os adgang til en nærliggende ukortlagt sektor."
+CURRENT,tiddlets_part1_delivered4,2624,"Incredible work, Captain. I can't believe how much we've seen, in such a short period of time.","Utroligt arbejde, kaptajn. Jeg kan næsten ikke tro, hvor meget vi har oplevet på så kort tid."
+CURRENT,tiddlets_part1_delivered7,2624,"These findings will make an incredible research paper, Captain.  I'll be sure to credit you as the pilot who found the first living specimens.  I would offer to name the creatures after you, but they already have a name, so apologies for not being able to honour that tradition.","Disse fund vil udgøre en fantastisk forskningsartikel, kaptajn. Jeg vil sørge for at kreditere dig som piloten, der fandt de første levende eksemplarer. Jeg ville have tilbudt at navngive væsnerne efter dig, men de har allerede et navn, så undskyld, at jeg ikke kan ære den tradition."
+CURRENT,tiddlets_part1_swanson4,2624,"Anyway, thank you for your work, Captain. Here's a reward for your efforts.","Under alle omstændigheder, tak for dit arbejde, kaptajn. Her er en belønning for din indsats."
+CURRENT,tiddlets_part2_debrief3,2624,"Thank you, Captain!","Mange tak, Kaptajn!"
+CURRENT,tiddlets_part2_finalexperiment1,2624,"*X Tiddlets now on board!  Fascinating, Captain.  It appears the Tiddlet reproductive process occurs even at incredibly short hyperspace distances.\nHow do they find the time?","*X Tiddlets ombord nu! Fascinerende, kaptajn. Det ser ud til, at Tiddlets' formeringsproces foregår selv ved utroligt korte hyperspace-distancer.\nHvordan finder de tiden?"
+CURRENT,tiddlets_part2_return2,2624,"That's such a horrible thing to witness.\nWe can't allow this sort of experiment to be done again, doctor. It's so unethical.","Det er så frygteligt at overvære.\nVi kan ikke tillade, at den slags eksperimenter gentages, doktor. Det er så uetisk."
+CURRENT,tiddlets_part2_return5,2624,"There's something else.  There's a reading showing up on the sensors, deep inside the core of the dead tiddlets.\nBring them all back to me, Captain. I think we've done enough for today.","Der er noget andet. Der vises en aflæsning på sensorerne, dybt inde i kernen af de døde tiddlets.\nBring dem alle tilbage til mig, kaptajn. Jeg synes, vi har gjort nok for i dag."
+CURRENT,tiddlets_part2_setup1,2624,"Welcome back, Captain! I must say, the corridors at the Institute have been alive with excitement over this wondrous new lifeform. My paper has already been provisionally accepted into all the top nature journals, which makes me so proud.","Velkommen tilbage, kaptajn! Jeg må sige, at gangene på Instituttet har været fyldt med begejstring over denne vidunderlige nye livsform. Mit papir er allerede foreløbigt accepteret i alle de førende naturvidenskabelige tidsskrifter, hvilket gør mig så stolt."
+CURRENT,tiddlets_part2_setup6,2624,"We need you to take the tiddlets on a series of specific hyperspace jumps. We will be recording the effect on their reproductive process and on their physiology. All... well, most of these experiments can be done hopefully without any harm coming to the creatures.","Vi har brug for, at du tager tiddlets på en række specifikke hyperspace-hop. Vi vil registrere effekten på deres formeringsproces og deres fysiologi. Alle... eller rettere, de fleste af disse eksperimenter kan forhåbentlig udføres uden at skade væsnerne."
+CURRENT,tiddlets_part2_setup9,2624,"But with your permission, we can begin. Install the new sensors first, Captain. And be sure to stock up on FTL fuel if you need to. Three or four jumps ought to be enough.","Men med din tilladelse kan vi begynde. Installer de nye sensorer først, kaptajn. Og sørg for at fylde op med FTL-brændstof, hvis det er nødvendigt. Tre eller fire hop burde være nok."
+CURRENT,tiddlets_part2_shortjump1,2624,"*X Tiddlets so far.  This is all working very well, Captain.  Now onto the real science.","*X Tiddlets indtil videre. Det hele fungerer rigtig godt, kaptajn. Nu til den rigtige videnskab."
+CURRENT,tiddlets_part3_artemis_debrief5,2624,"I'll be in touch if I need your help, Captain.","Jeg kontakter dig, hvis jeg har brug for din hjælp, kaptajn."
+CURRENT,tiddlets_part3_brokenhopdrive3,2624,"Dismantle the Hop Drive, Captain, and I'll send a shuttle to collect it.  I want you to replace the Hop Drive with a conventional FTL drive, for the final part of the experiment.  I'll send a replacement FTL drive in the delivery shuttle.","Tag Hop-drevet ned, kaptajn, og jeg sender et skib for at hente det. Jeg vil have, at du erstatter Hop-drevet med et konventionelt FTL-drev til den sidste del af eksperimentet. Jeg sender et erstatnings-FTL-drev med leverings skib."
+CURRENT,tiddlets_part3_marcus,2624,"I don't think I had the chance to properly thank you, Captain. You risked your life for us.  And now my twin is ten years older than me! It's taken some getting used to.","Jeg tror ikke, jeg fik mulighed for at takke dig ordentligt, kaptajn. Du satte dit liv på spil for os. Og nu er min tvilling ti år ældre end mig! Det har taget lidt tid at vænne sig til."
+CURRENT,tiddlets_part3_martinez_a3,2624,"I've put the rescue ship up for sale. I was asking $1M, but you can have it for half that price if you like.  Thank you, Captain.  You'll always be welcome with us.","Jeg har sat redningsskibet til salg. Jeg bad om $1M, men du kan få det for halvdelen, hvis du vil. Tak, kaptajn. Du vil altid være velkommen hos os."
+CURRENT,tiddlets_part3_martinez_b1,2624,"Hello, Captain.  How have you been? Things have been tough here.","Hej, kaptajn. Hvordan har du haft det? Det har været hårdt her."
+CURRENT,tiddlets_part3_martinez_b4,2624,"I hope it was worth it for you, Captain.","Jeg håber, det var det værd for dig, kaptajn."
+CURRENT,tiddlets_part3_martinez_c6,2624,"I don't want to talk to you, Captain.  Yes, the ship is for sale.  Take it.  I don't ever want to see that ship, or you, again.  Do not call me again.","Jeg vil ikke tale med dig, kaptajn. Ja, skibet er til salg. Tag det. Jeg vil aldrig nogensinde se det skib eller dig igen. Ring ikke til mig igen."
+CURRENT,tiddlets_part3_morehops,2624,"Excellent.  It's working, as I knew it would.  Give us three more hops, Captain.","Fremragende. Det virker, som jeg vidste, det ville. Giv os tre hop mere, kaptajn."
+CURRENT,tiddlets_part3_setup1,2624,"The work continues, Captain. There is so much more to these Tiddlets than we realised.","Arbejdet fortsætter, kaptajn. Der er så meget mere ved disse Tiddlets, end vi havde indset."
+CURRENT,tiddlets_part3_swanson_a1,2624,"Incredible work, Captain. I'm not sure how you managed that, but I'm true to my word.  I'll wire the funds to Dr. Martinez, with a sales bonus of $100k for you.  Bring the ship back to the Institute, and let's put it to use.","Utroligt arbejde, kaptajn. Jeg ved ikke, hvordan du klarede det, men jeg holder mit ord. Jeg overfører pengene til Dr. Martinez med en salgsbonus på $100k til dig. Bring skibet tilbage til Instituttet, så vi kan tage det i brug."
+CURRENT,tiddlets_part3_swanson_b1,2624,"Good work, Captain. That's a good price.  I'll send the funds to Dr Martinez.  You've earned a sales bonus of $40k.  Bring the ship back to the Institute, and let's put it to use.","Godt arbejde, kaptajn. Det er en god pris. Jeg sender pengene til Dr. Martinez. Du har tjent en salgsbonus på $40k. Bring skibet tilbage til Instituttet, så vi kan tage det i brug."
+CURRENT,tiddlets_part3_swanson_debriefa1,2624,"Well done, Captain.  Everything has worked exactly as I predicted, and we now have an excellent harvest on the farm ship.  More importantly, you've shown the way.","Godt klaret, kaptajn. Alt har fungeret præcis, som jeg forudså, og vi har nu en fremragende høst på farm-skibet. Endnu vigtigere, du har vist vejen."
+CURRENT,tiddlets_part3_swanson_debriefa2,2624,"I think I can take it from here, Captain.  My engineers tell me they'll have the Hop Drive fitted to the farm ship in just a few days.  In fact, we are close to automating the entire Tiddlet Harvest process with this one ship.","Jeg tror, jeg kan tage over herfra, kaptajn. Mine ingeniører siger, at de vil have Hop-drevet installeret på farm-skibet om få dage. Faktisk er vi tæt på at automatisere hele Tiddlet-høstprocessen med dette ene skib."
+CURRENT,tiddlets_part3_swanson_debriefa3,2624,"I knew we could rely on you, Captain.  Thank you for showing the highest degrees of professionalism.","Jeg vidste, vi kunne stole på dig, kaptajn. Tak for at vise den højeste grad af professionalisme."
+CURRENT,tiddlets_part3_swanson_debriefb4,2624,"Mark my words, Captain.  You will bitterly regret crossing me.","Husk mine ord, kaptajn. Du vil bittert fortryde at du krydse mig."
+CURRENT,tiddlets_part3_swanson_finalobjective2,2624,"You know what to do, Captain.  A couple of very long jumps ought to be enough.  Bring them all back to me when it's done.","Du ved, hvad du skal gøre, kaptajn. Et par meget lange hop burde være nok. Bring dem alle tilbage til mig, når det er gjort."
+CURRENT,tiddlets_part4_debrief_artemis_a1,2624,"I want to thank you for helping, Captain, when it counted. For doing the right thing. I'll split the remaining grant money I have with you. You deserve it.","Jeg vil takke dig, kaptajn, for at hjælpe, da det gjaldt. For at gøre det rigtige. Jeg vil dele de resterende bevillingspenge, jeg har, med dig. Du fortjener det."
+CURRENT,tiddlets_part4_debrief_artemis_a3,2624,"But I'd recommend you never bring a third aboard.  Look after them, Captain. I know you will.","Men jeg vil anbefale, at du aldrig tager en tredje ombord. Pas på dem, kaptajn. Jeg ved, du vil gøre det."
+CURRENT,tiddlets_part4_debrief_artemis_b3,2624,"I suggest you look after them from now on, Captain. It won't atone for the things you've done, but it's a start.","Jeg foreslår, at du passer på dem fra nu af, kaptajn. Det vil ikke opveje de ting, du har gjort, men det er en start."
+CURRENT,tiddlets_part4_rescue_swanson5,2624,"You have to help us, Captain.","Du er nødt til at hjælpe os, kaptajn."
+CURRENT,tutorial_mininggetinrange,2448,Move your ship until the mineral patch is in the range of fire.,"Flyt dit skib, indtil mineralområdet er inden for skudvidde."
+CURRENT,tutorial_miningselecttarget,2448,Target a Tilium Ore patch by clicking on one while having a mining laser selected.,"Mål et Tilium-område ved at klikke på det, mens du har en minedlaser valgt."
+CURRENT,tutorial_miningsuccess,2624,"Well done, you have produced Tilium Cystals.","Godt klaret, du har produceret Tilium-krystaller."
+CURRENT,tutorial_miningwaitsmelter,2448,Perfect! Now wait for your smelter to smelt the Tilium Ore.,"Perfekt! Vent nu på, at din smelteovn smelter Tilium-ore."
+CURRENT,tutorial_wrapup3,2624,"Many different types of contract are now available to you.\n\nHowever, you must stay alert, Captain. There are reports of even more lucrative opportunities that you'll have to find by yourself.","Mange forskellige typer kontrakter er nu tilgængelige for dig.\n\nDu skal dog forblive opmærksom, kaptajn. Der er rapporter om endnu mere indbringende muligheder, som du selv skal finde."
+CURRENT,wolf_part1_sendingwreckage,2624,"They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.","De sender det bjærgede vrag til dit skib The L*X nu, kaptajn. Det ankommer snart med et skib. Du bliver nødt til at opbevare det et sted ombord."
+CURRENT,wolf_part3_debrief1,2624,"Congratulations, Captain. Your performance in the destruction of the Pirate Vessel exceeded all expectations!","Tillykke, kaptajn. Din indsats i ødelæggelsen af piratskibet oversteg alle forventninger!"
+CURRENT,wolf_part3_debrief5,2624,"Farewell, Captain. Your dedication to justice and the safety of our sector will be remembered.","Farvel, kaptajn. Din dedikation til retfærdighed og sikkerheden i vores sektor vil blive husket."
+CURRENT,settings_language_category,3561,LANGUAGE,SPROG
+CURRENT,settings_softwarecursor,3561,Software Mouse Cursor,Software Mus Markør
+CURRENT,settings_softwarecursor_tooltip,3561,The game renders the mouse cursor instead of the operating system.,Spillet viser musmarkøren i stedet for operativsystemets markør.
+CURRENT,settings_softwarecursorsize,3561,Software Mouse Size,Software Mus Størelse
+CURRENT,settings_mousesize_small,3561,Small,Lille
+CURRENT,settings_mousesize_medium,3561,Medium,Mellem
+CURRENT,settings_mousesize_large,3561,Large,Stor
+CURRENT,settings_mousesize_huge,3561,Huge,Gigantisk
+CURRENT,settings_opengamefolder,3561,OPEN GAME FOLDER,HENT SPIL STIG
+CURRENT,settings_communicator_speed,3561,Character text speed,Tegnsæt Tekst Hastighed
+CURRENT,settings_camerapan_speed,3561,Camera pan speed,Kamera panering hastighed
+CURRENT,settings_slowest,3561,Slowest,Langsommest
+CURRENT,settings_slow,3561,Slow,Langsom
+CURRENT,settings_normal,3561,Normal,Normal
+CURRENT,settings_fast,3561,Fast,Hurtig
+CURRENT,settings_fastest,3561,Fastest,Hurtigst
+CURRENT,newmainmenu_multisystemsim,3561,Multi-System Simulation,Multi-System Simulator
+CURRENT,newmainmenu_multisystemsimtooltip,3561,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Muliggør flere-system simulation, så du kan opdele din flåde mellem flere systemer/sektorer samtidig."
+CURRENT,hud_tooltip_selectequipment,3561,[LMB/RMB] Select,[VENSTRE/HØJRE MUS] Vælg
+CURRENT,hud_tooltip_selectequipmentadd,3561,[SHIFT + LMB/RMB] Toggle select,[SHIFT + VENSTRE/HØJRE MUS] Skift markering
+CURRENT,hud_tooltip_selectequipmentnearby,3561,[LMB x2] Select all nearby,[VENSTRE MUS x2] Vælg alle i nærheden
+CURRENT,hud_tooltip_selectequipmentdrag,3561,[LMB Drag] Box select,[VENSTRE MUS Træk] Markér område
+CURRENT,hud_atmosphere_no_oxygen,3561,NO OXYGEN,INGEN OXYGEN
+CURRENT,hud_habitation_info_title,3561,HABITATION,BOLIGOMRÅDE
+CURRENT,hud_habitation_info_cabins,3561,*X / *Y CABINS,*X / *Y KABINER
+CURRENT,hud_habitation_info_sewage,3561,*X SEWAGE,*X SPILDEVAND
+CURRENT,equipment_multiple_selected,3561,MULTIPLE RECIPES,FLERE OPSKRIFTER
+CURRENT,tactical_dockingnotpossible,3561,DOCKING IMPOSSIBLE,DOKNING UMULIG
+CURRENT,tactical_thrustersrequired,3561,THRUSTERS REQUIRED,STYRERAKETTER PÅKRÆVET
+CURRENT,orders_layerscope,3561,SHIP-SPECIFIC ORDERS,SKIBS SPECIFIKKE ORDRER
+CURRENT,orders_systemscope,3561,SYSTEM-WIDE ORDERS,SYSTEMOMFATTENDE ORDRER
+CURRENT,order_tooltip_salvage,3561,Allow drones to gather salvage,Tillad droner at indsamle skrot
+CURRENT,order_tooltip_gather,3561,"Allow drones to gather raw and refined materials (ores, minerals, ingots)","Tillad droner at indsamle rå og raffinerede materialer (malm, mineraler, bar)"
+CURRENT,order_tooltip_repairhull,3561,Allow drones to repair ship hull,Tillad droner at reparere skibsskrog
+CURRENT,order_tooltip_suitson,3561,Make crew put on spacesuits if available,"Få besætningen til at tage rumdragter på, hvis tilgængeligt"
+CURRENT,order_tooltip_exteriorwork,3561,Allow crew to perform jobs in freespace,Tillad besætningen at udføre opgaver i det åbne rum
+CURRENT,order_tooltip_weaponsactive,3561,Allow weapons to fire,Tillad våben at skyde
+CURRENT,order_tooltip_fleetlogistics,3561,Allow logistics transfers between ships,Tillad logistikoverførsler mellem skibe
+CURRENT,order_tooltip_battlestations,3561,Battle Stations,Kamp stationer
+CURRENT,order_tooltip_mining,3561,Allow mining lasers to fire,Tillad minedlasere at skyde
+CURRENT,order_tooltip_autotradeactive,3561,Allow auto trades to execute,Tillad automatiske handler at udføres
+CURRENT,order_tooltip_advancedlogistics,3561,Allow interstellar logistics to execute,Tillad interstellare logistikoperationer at udføres
+CURRENT,object_fighterbay,3561,Fighter Bay,Jagerfly-hangaren
+CURRENT,object_fighterbay_description,3561,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.","Installer inde i dit skib og lever materialer til at producere jagerfly. Jagerflyet affyres fra toppen af skibet og vender tilbage til hangaren, når kampen er overstået. Hvis det går tabt, kan et nyt bygges."
+CURRENT,fighter_fuel,3561,FUEL: *X%,BRÆNDSTOF: *X%
+CURRENT,fighter_ammo,3561,BULLETS: *X,KUGLER: *X
+CURRENT,fighter_quantity,3561,*X / *Y,*X / *Y
+CURRENT,fighter_health_text,3561,HULL,SKROG
+CURRENT,fighter_ammo_text,3561,BULLETS,KUGLER
+CURRENT,fighter_fuel_text,3561,FUEL,BRÆNDSTOF
+CURRENT,fighter_refuelling_text,3561,REFUELLING...,PÅFYLDNING AF BRÆNDSTOF...
+CURRENT,fighter_create,3561,CREATE FIGHTER,OPRET JAGERFLY
+CURRENT,fighter_state_attackinglayer,3561,ATTACKING *X,ANGRIBER *X
+CURRENT,fighter_state_attackingfighter,3561,ATTACKING ENEMY FIGHTER,ANGRIBER FJENDTLIGT JAGERFLY
+CURRENT,fighter_state_returningtobay,3561,RETURNING TO BAY,VENDER TILBAGE TIL HANGAREN
+CURRENT,fighter_state_idleinfreespace,3561,SEARCHING FOR BAY,SØGER EFTER HANGAR
+CURRENT,translationeditor_copytoclipboard,3561,Copy,Kopiér
+CURRENT,translationeditor_usethistranslation,3561,Use This Translation,Brug denne oversættelse
+CURRENT,translationeditor_none,3561,None,Ingen
+CURRENT,translationeditor_yourchanges,3561,Your Changes,Dine ændringer
+CURRENT,translationeditor_new,3561,New,Ny
+CURRENT,translationeditor_updated,3561,Updated,Opdateret
+CURRENT,translationeditor_showpreview,3561,Show Preview,Vis forhåndsvisning
+CURRENT,translationeditor_english,3561,English,Engelsk
+CURRENT,translationeditor_nenglish,3561,New English,Ny Engelsk
+CURRENT,translationeditor_previous,3561,Previous,Forrige
+CURRENT,translationeditor_fallback,3561,Suggestion,Forslag
+CURRENT,translationeditor_youredit,3561,Your Change,Din ændring
+CURRENT,translationeditor_original,3561,Approved,Godkendt
+CURRENT,translationeditor_empty,3561,No Manually Approved Translation Yet,Ingen manuelt godkendt oversættelse endnu
+CURRENT,translationeditor_empty_original_tooltip1,3561,Unformatted Approved translation,Uformateret godkendt oversættelse
+CURRENT,translationeditor_empty_original_tooltip2,3561,Formatted Approved translation,Formateret godkendt oversættelse
+CURRENT,translationeditor_empty_original_tooltip3,3561,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.","Da der endnu ikke findes en godkendt oversættelse, bruger spillet den foreslåede oversættelse ovenfor.\n\nHvis du synes, at den foreslåede oversættelse er god, bør du kopiere den til dine ændringer med knappen ""Brug denne oversættelse"".\n\nNår du har indsendt dine ændringer til os, vil din oversættelse derefter blive vist som godkendt i den næste spilopdatering."
+CURRENT,translationeditor_fallback_tooltip1,3561,Suggested Translation,Foreslået oversættelse
+CURRENT,translationeditor_fallback_tooltip2,3561,Formatted Suggested Translation,Formateret foreslået oversættelse
+CURRENT,translationeditor_fallback_tooltip3,3561,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.","Dette forslag skal kontrolleres for at sikre, at det korrekt passer til spillets kontekst.\n\nDet vil kun blive brugt, hvis der ikke findes en ""godkendt"" oversættelse."
+CURRENT,translationeditor_previousenglish_tooltip1,3561,Previous English Phrase,Forrige engelske frase
+CURRENT,translationeditor_previousenglish_tooltip2,3561,Formatted Previous English phrase,Formateret forrige engelske frase
+CURRENT,translationeditor_previousenglish_tooltip3,3561,The English phrase that was used in the previous version of the game.,"Den engelske frase, der blev brugt i den tidligere version af spillet."
+CURRENT,translationeditor_previoustranslation_tooltip1,3561,Previous Translation Phrase,Forrige oversættelsesfrase
+CURRENT,translationeditor_previoustranslation_tooltip2,3561,Formatted Previous Translation phrase,Formateret forrige oversættelsesfrase
+CURRENT,translationeditor_previoustranslation_tooltip3,3561,Translation of the English phrase that was used in the previous version of the game.,"Oversættelse af den engelske frase, der blev brugt i den tidligere version af spillet."
+CURRENT,creditstitle_special,3561,Special Thanks,Særlige Tak Til
+CURRENT,settings_userinterface,3563,UI & GAME,BRUGERFLADE & SPIL
+CURRENT,settings_graphics,3563,GRAPHICS,GRAFIK
+CURRENT,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,"Forstørrer GUI-elementer såsom knapper, når musen holdes over dem."
+CURRENT,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),OVERSÆTTELSESEDITOR ({TranslatorWindow})
+CURRENT,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,"Hastigheden, hvormed karakterdialog vises i kommunikationsvinduet."
+CURRENT,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,Brug en parallax-effekt for at skabe en fornemmelse af dybde
+CURRENT,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,Skift til lav spilhastighed efter at have taget skade under kamp.
+CURRENT,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,[VENSTRE MUS] Vis automatiske handelsmuligheder
+CURRENT,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,[VENSTRE MUS] Skjul automatiske handelsmuligheder
+CURRENT,techtree_node_title_fighters1,3565,Fighters,Jagerfly
+CURRENT,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,Forbedrer jagerflys overlevelsesevne og smidighed. Panser reducerer modtaget skade.
+CURRENT,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,Jagerfly overlevelsesevne 1
+CURRENT,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,Øg panserets skadebegrænsning.
+CURRENT,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,Jagerfly overlevelsesevne 2
+CURRENT,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,Øg panserets skadebegrænsning.
+CURRENT,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,Jagerfly overlevelsesevne 3
+CURRENT,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,Øg panserets skadebegrænsning.
+CURRENT,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,Jagerfly smidighed 1
+CURRENT,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,Forbedrer jagerflys brændstofforbrug og hastighed.
+CURRENT,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,Jagerfly smidighed 2
+CURRENT,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,Forbedrer jagerflys brændstofforbrug og hastighed.
+CURRENT,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,Jagerfly smidighed 3
+CURRENT,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,Forbedrer jagerflys brændstofforbrug og hastighed.
+CURRENT,boost_fighterarmour,3565,Fighter Armour +*X%,Jagerflyspanser +*X%
+CURRENT,boost_fighterspeed,3565,Fighter Speed +*X%,Jagerflyhastighed +*X%
+CURRENT,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,Jagerfly brændstofeffektivitet +*X%
+CURRENT,mainmenu_gamemode_freeroam_tooltip,3561,"You are free to pursue any career at your own pace. No anomaly, no stargate.","Du er fri til at forfølge enhver karriere i dit eget tempo. Ingen anomalie, ingen stargate."
+CURRENT,newmainmenu_parallax,3561,Parallax,Parallakse
+CURRENT,settings_instantshipswitch_description,3561,Skip rotation and panning effect when switching between ships.,"Spring rotations- og panorerings-effekten over, når der skiftes mellem skibe."
+CURRENT,translationeditor_new_tooltip1,3561,Unformatted New Translation,Uformateret ny oversættelse
+CURRENT,translationeditor_new_tooltip2,3561,Formatted New Translation,Formateret ny oversættelse
+CURRENT,translationeditor_original_tooltip1,3561,Unformatted Approved Translation,Uformateret godkendt oversættelse
+CURRENT,translationeditor_original_tooltip2,3561,Formatted Approved Translation,Formateret godkendt oversættelse
+CURRENT,translationeditor_original_tooltip3,3561,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.","Dette er, hvad der i øjeblikket bruges i spillet. Selvom oversættelsen er ""Godkendt"", kan du stadig indsende ændringer for at forbedre den yderligere."
+CURRENT,translationeditor_unmodified,3561,Unmodified,Uændret
+CURRENT,wolf_part1_completion3,3561,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,Indtil videre har de ikke efterladt en eneste levende vidne. Men sensordataene fortæller hele historien. Vi har formået at udtrække endnu et sensorbillede af angriberen.
+CURRENT,settings_arraytextures,3563,Smooth Tiles,Glattede fliser
+CURRENT,settings_dynamiclighting,3563,Dynamic Lighting,Dynamisk belysning
 CURRENT,action_closedoors,2448,Close All Doors,Luk alle døre
-CURRENT,action_opendoors,2448,Open All Doors,Åbn alle døre
+CURRENT,action_opendoors,2448,Open All Doors,Åben alle døre
 CURRENT,advancedlogisticswindow_title,3239,INTERSTELLAR LOGISTICS,INTERSTELLAR LOGISTIK
 CURRENT,alert_title,2448,ALERTS,ADVARSLER
 CURRENT,alert_type_abouttoautosave,3054,AUTOSAVE,AUTOGEM
@@ -3200,3 +3188,15 @@ CURRENT,wolf_shipname_scavenger,2448,Scavenger Wraith,Skrothandler Wraith
 CURRENT,wolf_shipname_wolf1,2448,Interstellar Prospector,Interstellar Prospector
 CURRENT,wolf_shipname_wolf2,2448,Infinite Horizon,Infinite Horizon
 CURRENT,wolf_shipname_wolf3,2448,Celestial Hauler,Celestial Hauler
+OBSOLETE,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.",Du er fri til at forfølge enhver karriere i dit eget tempo. Ingen anomali ingen stargate.
+OBSOLETE,newmainmenu_parallax,2448,Parallax effect,Parallakse-effekt
+OBSOLETE,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition","Når der skiftes mellem skibe, spring overgang over"
+OBSOLETE,translationeditor_new_tooltip1,3054,Unformatted new translation,Uformateret ny oversættelse
+OBSOLETE,translationeditor_new_tooltip2,3054,Formatted new translation,Formateret ny oversættelse
+OBSOLETE,translationeditor_original_tooltip1,3054,Unformatted original translation,Uformateret oprindelig oversættelse
+OBSOLETE,translationeditor_original_tooltip2,3054,Formatted original translation,Formateret oprindelig oversættelse
+OBSOLETE,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,Dette er det der aktuelt bruges i spillet.
+OBSOLETE,translationeditor_unmodified,3054,Unmodified Phrases,Uændrede fraser
+OBSOLETE,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Indtil videre har de ikke efterladt en eneste levende vidne. Men sensordataene fortæller hele historien. Vi har formået at udtrække endnu et sensorbillede af angriberen.
+OBSOLETE,settings_arraytextures,2624,Use Array Textures,Brug array-teksturer
+OBSOLETE,settings_dynamiclighting,2675,Use Dynamic Lighting,Brug dynamisk belysning
