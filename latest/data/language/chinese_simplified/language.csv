@@ -156,7 +156,7 @@ CURRENT,blackhole_part3_finalscene5,2448,"How long?",多久?
 CURRENT,blackhole_part3_finalscene6,2448,"You've been down there for 10 years.",你已经在下面呆了10年了。
 CURRENT,blackhole_part3_finalscene7,2448,...!,……!
 CURRENT,blackhole_part3_marcus1,2448,"I was beginning to think you wouldn't be coming!  I've been down here for hours!",我还以为你不来了呢！我已经在下面等好几个小时了！
-CURRENT,blackhole_part3_marcus2,2624,"Dock your ship with mine, Captain, and tell me when you're ready for me to come on board.  Please hurry!",舰长，请您将飞船与我对接，准备好让我登船时告诉我。请尽快!
+CURRENT,blackhole_part3_marcus2,2624,"Dock your ship with mine, Captain, and tell me when you're ready for me to come on board.  Please hurry!",舰长，请您将飞船与我对接，准备好让我登船时告诉我。请抓紧时间！
 CURRENT,blackhole_part3_marcusdata1,2624,"The Stargate data?  I can send that, Captain, but you'll have to give me a few minutes to access the data and set up the transmission.",舰长，星门数据可以发送，但您得给我几分钟时间调取数据、设置传输参数。
 CURRENT,blackhole_part3_marcusdata2,2448,"Damn it Captain, I don't have time for that!  I don't know how much longer the ship is going to survive like this.  I'll do my best, but you'd better be ready.",舰长！可恶，我快没时间了，不知道这艘船还能撑多久。我会尽力而为，但您最好已经做了万全准备。
 CURRENT,blackhole_part3_marcusrescue1,2624,"I'm onboard, Captain.  Get us out of here!",舰长，我上舰了。请带我离开这里
@@ -641,7 +641,7 @@ CURRENT,evacuationobjective_description4,2448,"And we don't even know where we c
 CURRENT,evacuationobjective_nextbonus,2448,"Next bonus upon evacuation of *X civilians : $*Y.","下一阶段奖励：撤离 *X 平民可获得 $*Y 。"
 CURRENT,evacuationobjective_success,2448,"Evacuated *X civilians","*X 平民已撤离"
 CURRENT,evacuationobjective_successbonus,2448,"Evacuated *X civilians. Funding bonus $*Y.","撤离*X 平民。资金奖励 $*Y 。"
-CURRENT,evacuationobjective_title,2448,"SPECIAL MISSION: EVACUATION",特别任务撤离
+CURRENT,evacuationobjective_title,2448,"SPECIAL MISSION: EVACUATION",特别任务：撤离
 CURRENT,evacuationobjective_total,2448,"You have evacuated *X civilians from doomed home worlds.","你已将 *X 平民从注定毁灭的母星撤离。"
 CURRENT,factory_stockpileoutput,2448,STOCKPILE,堆积
 CURRENT,factory_stockpileoutput_tooltip,2448,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.","堆积\n\n如果勾选，生产出来的物品会立即卸载到任何可用的储存空间，将物品堆积起来。\n\n如果不勾选，生产出来的物品会一直保留着，直到其他地方有用到，或有相应的储存空间。"
@@ -1034,8 +1034,8 @@ CURRENT,mainmenu_gamemode_survival,2448,Survival,生存模式
 CURRENT,mainmenu_gamemode_survival_locked,2624,"Complete any story episode in 'Boldly Go' to unlock",完成“勇往直前”中的任意章节以解锁
 CURRENT,mainmenu_gamemode_survival_tooltip,2448,"Stay one step ahead of a devastating anomaly, for as long as you can",在毁灭性的异常吞噬一切之前尽可能地逃离
 CURRENT,mainmenu_gamemode_unlocked,2448,UNLOCKED,已解锁
-CURRENT,mainmenu_gamemode_unlocked_freeroam,2448,"Game Mode: Free Roam",游戏模式自由漫游
-CURRENT,mainmenu_gamemode_unlocked_survival,2448,"Game Mode: Survival",游戏模式生存
+CURRENT,mainmenu_gamemode_unlocked_freeroam,2448,"Game Mode: Free Roam",游戏模式：自由漫游
+CURRENT,mainmenu_gamemode_unlocked_survival,2448,"Game Mode: Survival",游戏模式：生存
 CURRENT,mainmenu_importfriendly,2448,"Import Friendly Ship",导入友方飞船
 CURRENT,mainmenu_importhostile,2448,"Import Hostile Ship",导入敌对飞船
 CURRENT,mainmenu_importship,2448,"Import Ship",导入飞船
@@ -1050,41 +1050,41 @@ CURRENT,mainmenu_newgamed,2448,"New Game - Shipyard","新游戏 - 船坞"
 CURRENT,mainmenu_newgamee,2448,"New Game - Large Logistics","新游戏 - 大型货运船"
 CURRENT,mainmenu_quit,2448,Quit,退出
 CURRENT,mainmenu_savegame,2448,"Save Game",保存游戏
-CURRENT,mainmenu_stargate_caption,2448,"Forge your own path through story driven episodes all around the sector, and take part in the construction of a galactic mega project",在星区中通过故事驱动的章节开辟自己的道路并参与银河系巨型工程的建设
-CURRENT,mainmenu_stargate_caption_old,2448,"Take part in the construction of a galactic megaproject - a STARGATE with enough range to reach our nearest neighbouring galaxy ANDROMEDA",参与建造银河系巨型工程——星门其射程足以抵达我们最近的邻近星系仙女座
+CURRENT,mainmenu_stargate_caption,2448,"Forge your own path through story driven episodes all around the sector, and take part in the construction of a galactic mega project",在星区中通过故事驱动的章节开辟自己的道路，并参与银河系巨型工程的建设
+CURRENT,mainmenu_stargate_caption_old,2448,"Take part in the construction of a galactic megaproject - a STARGATE with enough range to reach our nearest neighbouring galaxy ANDROMEDA",参与建造银河系巨型工程——星门，其传送距离足以抵达我们最近的邻近星系仙女座
 CURRENT,mainmenu_steamworkshop,2448,"Steam Workshop","Steam 创意工坊"
-CURRENT,mainmenu_survival_caption,2448,"Stay one step ahead of a devastating anomaly that consumes everything in its path, and save as many as you can before it's too late",在吞噬一切的毁灭性异常到来前先行一步在为时已晚前尽可能拯救更多人
+CURRENT,mainmenu_survival_caption,2448,"Stay one step ahead of a devastating anomaly that consumes everything in its path, and save as many as you can before it's too late",在吞噬一切的毁灭性异常到来前先行一步，在为时已晚前尽可能拯救更多人
 CURRENT,mainmenu_title,2448,"Main Menu",主菜单
 CURRENT,mainmenu_tools,2448,"Developer Tools",开发者工具
 CURRENT,mission_accept,2448,Accept,接受
 CURRENT,mission_accepted,2448,Accepted,已接受
 CURRENT,mission_acceptonlayer,2448,"Accept and assign to *X",接受并分配给*X
-CURRENT,mission_arenaprep_summary,2448,"Prepare your ship and crew for the upcoming battle!\nUnpausing the game will begin combat.","为即将到来的战斗准备好您的飞船和船员\n取消暂停游戏将开始战斗。"
+CURRENT,mission_arenaprep_summary,2448,"Prepare your ship and crew for the upcoming battle!\nUnpausing the game will begin combat.","让你的舰船和船员为即将到来的战斗做好准备\n取消暂停战斗将会开始。"
 CURRENT,mission_arenaprep_title,2448,"Prepare for battle!",准备战斗
-CURRENT,mission_arenaprep_useeditor,2448,"OPTIONAL: Use the ship editor to prepare","可选 使用飞船编辑器准备"
-CURRENT,mission_assignedto,2448,"(Assigned to *X)",(分配给*X)
-CURRENT,mission_assignedtolayer,2448,"Accepted and assigned to L*X",接受并分配给L*X
+CURRENT,mission_arenaprep_useeditor,2448,"OPTIONAL: Use the ship editor to prepare","可选：使用飞船编辑器准备"
+CURRENT,mission_assignedto,2448,"(Assigned to *X)",(分配给 *X)
+CURRENT,mission_assignedtolayer,2448,"Accepted and assigned to L*X",接受并分配给 L*X
 CURRENT,mission_bypassed,2448,BYPASSED,已跳过
 CURRENT,mission_cannotaccept,2448,"You cannot accept this mission",无法接受此任务
-CURRENT,mission_cannotassigntolayer,2448,"Cannot assign to *X",无法分配给*X
+CURRENT,mission_cannotassigntolayer,2448,"Cannot assign to *X",无法分配给 *X
 CURRENT,mission_collected,2448,COLLECTED,已收集
-CURRENT,mission_combat_accept,2448,"We have marked the location of the hostile forces on your map. Good hunting.",我们已经在你们的地图上标出了敌对势力的位置。狩猎愉快
-CURRENT,mission_combat_alldestroyed,2448,"All hostile forces have been destroyed. Total payment $*X.",所有敌对势力已被摧毁。付款总额$*X.
-CURRENT,mission_combat_attacknow,2448,"You have located the hostile forces! Destroy them immediately.",您已找到敌军立即消灭他们。
-CURRENT,mission_combat_description1,2448,"There is a small fleet of hostile ships operating illegally at a nearby star system in this sector.",在这个星区附近的一个恒星系统中有一小队敌对飞船在非法活动。
+CURRENT,mission_combat_accept,2448,"We have marked the location of the hostile forces on your map. Good hunting.",我们已经在你们的地图上标出了敌对势力的位置，祝你狩猎愉快
+CURRENT,mission_combat_alldestroyed,2448,"All hostile forces have been destroyed. Total payment $*X.",所有敌对势力已被摧毁，付款总额 $*X.
+CURRENT,mission_combat_attacknow,2448,"You have located the hostile forces! Destroy them immediately.",你已找到敌军，请立即消灭他们。
+CURRENT,mission_combat_description1,2448,"There is a small fleet of hostile ships operating illegally at a nearby star system in this sector.",这个星区附近的一个恒星系统中，有一小队敌对飞船在进行非法活动。
 CURRENT,mission_combat_description2,2448,"They have been harassing trade and humanitarian ships for too long.",他们骚扰贸易和人道主义船只已经太久了。
-CURRENT,mission_combat_description3,2448,"Travel to the system, engage them in combat and destroy them.",前往该星系与他们交战并消灭他们。
-CURRENT,mission_combat_destroyed,2448,"You have destroyed *X hostiles out of *Y","您消灭了*X *Y"
+CURRENT,mission_combat_description3,2448,"Travel to the system, engage them in combat and destroy them.",前往该星系，战斗并消灭他们。
+CURRENT,mission_combat_destroyed,2448,"You have destroyed *X hostiles out of *Y","您消灭了 *X *Y"
 CURRENT,mission_combat_failure,2448,"The remaining hostile forces have escaped.",剩余的敌军已经逃走。
 CURRENT,mission_combat_location,2624,"The hostile ships are located at system S*X.","敌舰位于S*X 星系。"
 CURRENT,mission_combat_mines_description1,2448,"Pirate forces have created a dangerous minefield in a busy shipping lane.",海盗部队在繁忙的航道上制造了一个危险的雷区。
-CURRENT,mission_combat_mines_description2,2448,"Their aim appears to be to cripple any trade ships that come too close, then rob the stranded ships of valuable cargo.",它们的目的似乎是要摧毁任何靠得太近的商船然后抢走搁浅船只上的贵重货物。
-CURRENT,mission_combat_mines_description3,2448,"Travel to the system and destroy the minefield, before the pirate forces show up.",在海盗部队出现之前前往该星系并摧毁雷区。
-CURRENT,mission_combat_mines_requirement,2448,"You will need a weapon system to destroy the mines from a distance.",您需要一个武器系统来远距离摧毁太空雷。
+CURRENT,mission_combat_mines_description2,2448,"Their aim appears to be to cripple any trade ships that come too close, then rob the stranded ships of valuable cargo.",它们的目的似乎是要摧毁任何靠得太近的商船，然后抢走搁浅船只上的贵重货物。
+CURRENT,mission_combat_mines_description3,2448,"Travel to the system and destroy the minefield, before the pirate forces show up.",在海盗部队出现之前，前往该星系并摧毁雷区。
+CURRENT,mission_combat_mines_requirement,2448,"You will need a weapon system to destroy the mines from a distance.",你需要一个武器系统来远距离摧毁雷区。
 CURRENT,mission_combat_objective,2448,"Locate and engage hostile forces",找到敌军并与之交战
-CURRENT,mission_combat_piratecount,2448,"Reports suggest there are *X ships in the hostile fleet, hiding out in star system *Y.","报告显示敌对舰队中有*X 艘飞船躲藏在星系*Y 中。"
+CURRENT,mission_combat_piratecount,2448,"Reports suggest there are *X ships in the hostile fleet, hiding out in star system *Y.","报告显示敌对舰队中有 *X 艘飞船躲藏在星系 *Y 中。"
 CURRENT,mission_combat_requirements,2448,"You will require an armed combat vessel to accept this mission.",您需要一艘武装战舰才能接受这项任务。
-CURRENT,mission_combat_success,2448,"Destroyed *X/*Y Hostiles","被摧毁的*X/*Y 敌对势力"
+CURRENT,mission_combat_success,2448,"Destroyed *X/*Y Hostiles","被摧毁的 *X/*Y 敌对势力"
 CURRENT,mission_combat_title_armouredthugs,2448,"Eradicate armoured thugs",消灭装甲暴徒
 CURRENT,mission_combat_title_communityships,2448,"Attack and destroy hostile pirate gang",攻击并摧毁敌对海盗团伙
 CURRENT,mission_combat_title_mercenarystation,2448,"Destroy hostile mercenary weapons platform",摧毁敌对雇佣军的武器平台
@@ -1092,50 +1092,50 @@ CURRENT,mission_combat_title_mines,2448,"Clear dangerous minefield",清除危险
 CURRENT,mission_combat_title_pirategang,2448,"Neutralise pirate gang",消灭海盗团伙
 CURRENT,mission_combat_title_roguefighters,2448,"Attack and destroy rogue fighters",攻击和摧毁流氓战斗机
 CURRENT,mission_completed,2448,COMPLETED,已完成
-CURRENT,mission_contractcompleted,2448,"Contract Completed",合同已完成
+CURRENT,mission_contractcompleted,2448,"Contract Completed",合约已完成
 CURRENT,mission_courseplotted,2448,"COURSE PLOTTED",航线已规划
 CURRENT,mission_deliver,2448,Deliver,交付
 CURRENT,mission_delivered,2448,DELIVERED,已交付
-CURRENT,mission_delivery_alldelivered,2448,"All cargo has been supplied. Good luck.",已提供所有货物。祝您好运
-CURRENT,mission_delivery_delivery,2448,"Supplied *X out of *Y items.","已交付*X / *Y 件物品。"
-CURRENT,mission_delivery_description,2448,"I've got *X boxes of supplies that need delivering.","我有*X 箱物资需要运送。"
-CURRENT,mission_delivery_descriptionfurther,2448,"The destination is *Y Sector Jumps away, in Sector *X.","目的地在*X 星区距离*Y 次星区跳跃。"
-CURRENT,mission_delivery_destination,2448,"The destination is in this Sector, at Star System S*X.","目的地位于本星区S*X 星系。"
+CURRENT,mission_delivery_alldelivered,2448,"All cargo has been supplied. Good luck.",所有货物已送达，祝你好运
+CURRENT,mission_delivery_delivery,2448,"Supplied *X out of *Y items.","已交付 *X/*Y 件物品。"
+CURRENT,mission_delivery_description,2448,"I've got *X boxes of supplies that need delivering.","我有 *X 箱物资需要运送。"
+CURRENT,mission_delivery_descriptionfurther,2448,"The destination is *Y Sector Jumps away, in Sector *X.","目的地在 *X 星区，需要 *Y 次星区跃迁。"
+CURRENT,mission_delivery_destination,2448,"The destination is in this Sector, at Star System S*X.","目的地位于本星区 S*X 星系。"
 CURRENT,mission_delivery_location,2448,"Travel to the delivery system",前往目的地星系
-CURRENT,mission_delivery_lost,2448,"The remaining *X items of cargo are unaccounted for.","其余*X 件货物下落不明。"
-CURRENT,mission_delivery_outoftime,2448,"It is too late - you will no longer be paid for the remaining cargo.",时间已过剩余货物将不再获得报酬。
-CURRENT,mission_delivery_received,2448,"Received *X out of *Y items. Total payment due $*Z.","从*Y 项目中收到*X 。应付款总额$*Z 。"
+CURRENT,mission_delivery_lost,2448,"The remaining *X items of cargo are unaccounted for.","其余 *X 件货物下落不明。"
+CURRENT,mission_delivery_outoftime,2448,"It is too late - you will no longer be paid for the remaining cargo.",时间已过，交付剩余货物将不再获得报酬。
+CURRENT,mission_delivery_received,2448,"Received *X out of *Y items. Total payment due $*Z.","从 *Y 项目中收到 *X 。应付款总额 $*Z 。"
 CURRENT,mission_delivery_shuttle,2448,"A shuttle is on route to you now with the supplies.",一艘穿梭机正运送物资前往你处。
-CURRENT,mission_delivery_success,2448,"Delivered *X out of *Y items","在*Y 项目中交付*X "
-CURRENT,mission_delivery_timed,2448,"These goods are required immediately. You'll have just *X minutes. (+50% pay)","货物急需。你只有*X 分钟时间。+50% 报酬"
-CURRENT,mission_delivery_timeremaining,2448,"You have just *X seconds remaining to make the delivery!","你只剩下*X 秒来完成交付"
-CURRENT,mission_delivery_title,2448,"Courier mission: Deliver cargo to nearby system",运输任务向附近星系运送货物
+CURRENT,mission_delivery_success,2448,"Delivered *X out of *Y items","已交付 *X / *Y 件物品"
+CURRENT,mission_delivery_timed,2448,"These goods are required immediately. You'll have just *X minutes. (+50% pay)","货物急需，你只有 *X 分钟时间，+50% 报酬"
+CURRENT,mission_delivery_timeremaining,2448,"You have just *X seconds remaining to make the delivery!","你只剩下 *X 秒来完成交付"
+CURRENT,mission_delivery_title,2448,"Courier mission: Deliver cargo to nearby system",运输任务：向附近星系运送货物
 CURRENT,mission_delivery_titlefurther,2448,"Deliver cargo to another sector",向其他星区运送货物
-CURRENT,mission_delivery_toolate,2448,"Received *X out of *Y items, but the time limit has now expired.","从*Y 项目中收到*X 但时限已过。"
+CURRENT,mission_delivery_toolate,2448,"Received *X out of *Y items, but the time limit has now expired.","已收到 *X / *Y，但时限已过。"
 CURRENT,mission_delivery_turnin,2448,"A shuttle is on its way to collect the cargo.",一架穿梭机正在去取货物的路上。
-CURRENT,mission_delivery_wrongdestination,2448,"Some of the cargo has been delivered to the wrong location. You will not be paid.",部分货物送错了地点。您将无法获得付款。
-CURRENT,mission_difficulty,2448,"This mission has been assigned a difficulty rating of *X.",此任务难度等级为*X。
+CURRENT,mission_delivery_wrongdestination,2448,"Some of the cargo has been delivered to the wrong location. You will not be paid.",部分货物送错了地点，您将无法获得付款。
+CURRENT,mission_difficulty,2448,"This mission has been assigned a difficulty rating of *X.",此任务难度等级为 *X。
 CURRENT,mission_difficulty_short,2448,"DIFFICULTY *X",难度*X
 CURRENT,mission_episode_1,2448,"EPISODE 1","第 1 集"
 CURRENT,mission_failed,2448,FAILED,失败
-CURRENT,mission_flightready_description1,2448,"All ships must pass basic flight ready certification before being allowed on operations.",所有船只必须通过基本飞行准备认证才可投入运营。
-CURRENT,mission_flightready_description2,2448,"A ship requires each of the following capabilities in order to be certified 'Flight Ready':","要获得 飞行就绪 认证飞船必须具备以下各项能力"
+CURRENT,mission_flightready_description1,2448,"All ships must pass basic flight ready certification before being allowed on operations.",所有船只必须通过基本飞行准备认证，才可投入运营。
+CURRENT,mission_flightready_description2,2448,"A ship requires each of the following capabilities in order to be certified 'Flight Ready':","要获得“飞行就绪”认证，舰船必须具备以下各项能力"
 CURRENT,mission_flightready_engines,2448,"Engines capable of propulsion",能够推进的引擎
-CURRENT,mission_flightready_engines_help,2448,"Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them.","用于推进的引擎。  试射引擎从战术视角对其进行认证。"
+CURRENT,mission_flightready_engines_help,2448,"Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them.","用于推进的引擎，试射引擎从战术视角对其进行认证。"
 CURRENT,mission_flightready_ftl,2448,"An FTL Drive capable of Hyperspace jumps",能进行超空间跃迁的引擎
 CURRENT,mission_flightready_ftljump,2448,"Jump to the marked destination",跃迁到标记的目的地
-CURRENT,mission_flightready_ftljump_help,2448,"An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map.","跃迁引擎  跳转到地图上标记的目的地测试你的新跃迁引擎。"
-CURRENT,mission_flightready_lifesupport,2448,"Life support to make the interior habitable [*X%]","使内部适宜居住的生命支持系统 [*X%]"
-CURRENT,mission_flightready_lifesupport_help,2448,"Life support to make the cabin breathable.  Use an Airduct to pressurise the cabin, connected to an Oxygen Loader to supply the air.","生命支持使机舱可以呼吸。  使用空气导管给机舱加压并连接氧气装载器来提供空气。"
-CURRENT,mission_flightready_movement,2448,"Test the engines from the TACTICAL screen","从 战术 屏幕测试引擎"
+CURRENT,mission_flightready_ftljump_help,2448,"An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map.","一个跃迁引擎，跳转到地图上标记的目的地以进行测试。"
+CURRENT,mission_flightready_lifesupport,2448,"Life support to make the interior habitable [*X%]","使内部适宜居住的维生系统 [*X%]"
+CURRENT,mission_flightready_lifesupport_help,2448,"Life support to make the cabin breathable.  Use an Airduct to pressurise the cabin, connected to an Oxygen Loader to supply the air.","维生系统提供可供呼吸的空气，使用通风机给机舱加压并连接氧气装载器来提供空气。"
+CURRENT,mission_flightready_movement,2448,"Test the engines from the TACTICAL screen","在“战术”界面测试引擎"
 CURRENT,mission_flightready_name,2448,"Flight Ready",飞行准备
 CURRENT,mission_flightready_power,2448,"A Reactor, generating power.",反应堆发电
-CURRENT,mission_flightready_power_help,2448,"A reactor to generate power. Use a Fuel Loader to pipe fuel into the Reactor.",一个用于发电的反应堆。使用燃料装载器将燃料输送到反应堆。
-CURRENT,mission_flightready_title,2448,"Make your new ship ready for flight",让您的新飞船做好飞行准备
-CURRENT,mission_fortress_accept,2872,"We have marked the location of the fortress on your map. Good luck, Captain.",我们已经在你们的地图上标出了星际堡垒的位置。祝你好运上尉
-CURRENT,mission_fortress_description1,2872,"Hostiles have set up a fortress within the sector. It appears to be where they are fabricating their ships.",敌人在这个区域建立了一个星际堡垒。他们似乎正在那里制造飞船。
-CURRENT,mission_fortress_description2,2872,"The fortress is giving them significant power across the sector and must be dealt with.",星际堡垒赋予了他们在整个地区的巨大权力必须加以解决。
-CURRENT,mission_fortress_description3,2872,"Travel to the fortress, destroy it, and eliminate any remaining hostiles",前往星际堡垒摧毁它并消灭剩余的敌人
+CURRENT,mission_flightready_power_help,2448,"A reactor to generate power. Use a Fuel Loader to pipe fuel into the Reactor.",一个用于发电的反应堆，使用燃料装载器将燃料输送到反应堆。
+CURRENT,mission_flightready_title,2448,"Make your new ship ready for flight",让你的新飞船做好飞行准备
+CURRENT,mission_fortress_accept,2872,"We have marked the location of the fortress on your map. Good luck, Captain.",我们已经在你们的地图上标出了星际堡垒的位置，祝你好运，舰长
+CURRENT,mission_fortress_description1,2872,"Hostiles have set up a fortress within the sector. It appears to be where they are fabricating their ships.",敌人在这个区域建立了一个星际堡垒，他们似乎正在那里建造飞船。
+CURRENT,mission_fortress_description2,2872,"The fortress is giving them significant power across the sector and must be dealt with.",星际堡垒赋予了他们在整个地区的巨大控制力，必须加以解决。
+CURRENT,mission_fortress_description3,2872,"Travel to the fortress, destroy it, and eliminate any remaining hostiles",前往星际堡垒，摧毁它并消灭剩余的敌人
 CURRENT,mission_fortress_destroyfortress,2872,"Destroy the fortress",摧毁星际堡垒
 CURRENT,mission_fortress_destroyhostiles,2872,"Eliminate any remaining hostiles",消灭剩余的敌人
 CURRENT,mission_fortress_objective,2872,"Travel to the fortress",前往星际堡垒
@@ -1143,226 +1143,226 @@ CURRENT,mission_fortress_success,2872,"The fortress assault was successful.",星
 CURRENT,mission_fortress_title,2872,"Destroy a hostile fortress",摧毁敌方星际堡垒
 CURRENT,mission_illegal,2448,"ILLEGAL ACTIVITY",非法活动
 CURRENT,mission_industry_accepted1,2448,"We've marked the asteroid belt location on your map.",我们已经在地图上标出了小行星带的位置。
-CURRENT,mission_industry_description,2448,"There is huge demand for FTL fuel cells, to power the evacuation ships.",超光速燃料电池的需求量巨大可以为撤离船提供动力。
-CURRENT,mission_industry_description2,2448,"We can manufacture FTL Fuel, but we need Tilium ore that can only be found in certain asteroid belts.",我们可以制造超光速燃料但我们需要提利姆矿石而提利姆矿石只能在某些小行星带找到。
-CURRENT,mission_industry_description3,2624,"Luckily there is just such an asteroid belt nearby, within this sector, in system S*X.","幸运的是附近就有这样一个小行星带位于本星区的S*X 星系。"
-CURRENT,mission_industry_description3b,2448,"The nearest asteroid belt is in the next sector.",最近的小行星带在下一个区域。
-CURRENT,mission_industry_description4,2448,"Then drop the Ore off at any trading post to collect payment.",然后将矿石送到任何一个贸易站收款。
-CURRENT,mission_industry_gathered,2448,"You have *X Tilium ore on this ship (We need *Y)","您在这艘船上有*X 提利姆矿石我们需要*Y)"
-CURRENT,mission_industry_hostiles,2448,"WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay)",警告小行星带附近有敌军驻扎。(+50%报酬
+CURRENT,mission_industry_description,2448,"There is huge demand for FTL fuel cells, to power the evacuation ships.",超光速燃料电池可以为撤离船提供动力，需求量巨大。
+CURRENT,mission_industry_description2,2448,"We can manufacture FTL Fuel, but we need Tilium ore that can only be found in certain asteroid belts.",我们可以生产超光速燃料，但需要提利姆矿石，而提利姆矿石只能在某些小行星带找到。
+CURRENT,mission_industry_description3,2624,"Luckily there is just such an asteroid belt nearby, within this sector, in system S*X.","幸运的是，附近就有这样一个小行星带，位于本星区的 S*X 星系。"
+CURRENT,mission_industry_description3b,2448,"The nearest asteroid belt is in the next sector.",最近的小行星带在下一个星区。
+CURRENT,mission_industry_description4,2448,"Then drop the Ore off at any trading post to collect payment.",然后将矿石送到任何一个贸易站换取收款。
+CURRENT,mission_industry_gathered,2448,"You have *X Tilium ore on this ship (We need *Y)","你的船上已有 *X 提利姆矿石（我们需要*Y）"
+CURRENT,mission_industry_hostiles,2448,"WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay)",警告：小行星带附近有敌军驻扎。(+50% 报酬）
 CURRENT,mission_industry_location,2448,"Travel to the asteroid belt",前往小行星带
-CURRENT,mission_industry_lost,2448,"There is no more Tilium on board your ship.",你的船上已经没有提利姆了。
-CURRENT,mission_industry_meteorshower,2448,"WARNING: There are reports of a meteor shower in that system. (+50% pay).",警告有报告称该星系出现流星雨。(报酬+50%。
-CURRENT,mission_industry_received,2448,"We have received *X Tilium out of a total of *Y. Total payment due $*Z.","我们已收到*X 提利姆总金额为*Y 。应支付的总金额为$*Z 。"
-CURRENT,mission_industry_refined,2448,"==> The Tilium must first be refined in a Smelter prior to delivery. <==","==>; 在交付之前必须先在冶炼机中提炼提利姆。<=="
-CURRENT,mission_industry_refined_title,2448,"Extract and refine critical resources",提取和提炼关键资源
+CURRENT,mission_industry_lost,2448,"There is no more Tilium on board your ship.",你的船上已经没有提利姆矿石了。
+CURRENT,mission_industry_meteorshower,2448,"WARNING: There are reports of a meteor shower in that system. (+50% pay).",警告：有报告称该星系出现流星雨。(+50% 报酬）。
+CURRENT,mission_industry_received,2448,"We have received *X Tilium out of a total of *Y. Total payment due $*Z.","我们已收到 *X 提利姆矿石，总金额为 *Y 。待支付的酬金总额为 $*Z 。"
+CURRENT,mission_industry_refined,2448,"==> The Tilium must first be refined in a Smelter prior to delivery. <==","==> 交付之前，必须先把提利姆矿石放到冶炼机中进行提炼。<=="
+CURRENT,mission_industry_refined_title,2448,"Extract and refine critical resources",获取、提炼关键资源
 CURRENT,mission_industry_refinedrequired,2448,"Then refine the mined ore in a Smelter.",然后在冶炼机对开采出的矿石进行提炼。
-CURRENT,mission_industry_requirements,2448,"This contract requires a suitable mining vessel, equipped with Mining Lasers and Logistics Drones.",这份合同需要一艘合适的采矿船配备采矿激光和后勤无人机。
-CURRENT,mission_industry_return,2448,"Return to a colony or shipyard system to deliver the Tilium.","返回殖民地或船坞系统交付 提利姆。"
-CURRENT,mission_industry_shuttle,2448,"We've dispatched a shuttle to collect the Tilium Ore.",我们已经派出一艘穿梭机去采集提利姆矿石了。
-CURRENT,mission_industry_success,2448,"Extracted *X/*Y Ore","提取的*X/*Y 矿石"
-CURRENT,mission_industry_tiliumrequired,2448,"Travel to the asteroid belt and extract *X Tilium ore.","前往小行星带提取*X 提利姆矿石。"
-CURRENT,mission_industry_title,2448,"Mining contract: Extract critical minerals",采矿合同提取关键矿物
-CURRENT,mission_missioncompleted,2448,"CONTRACT COMPLETED",合同完成
+CURRENT,mission_industry_requirements,2448,"This contract requires a suitable mining vessel, equipped with Mining Lasers and Logistics Drones.",这份合约需要一艘合格的采矿船，配备了采矿激光和货运无人机。
+CURRENT,mission_industry_return,2448,"Return to a colony or shipyard system to deliver the Tilium.","返回殖民地或船坞，交付提利姆矿石。"
+CURRENT,mission_industry_shuttle,2448,"We've dispatched a shuttle to collect the Tilium Ore.",我们已经派出了一艘穿梭机去采集提利姆矿石了。
+CURRENT,mission_industry_success,2448,"Extracted *X/*Y Ore","已获取 *X/*Y 矿石"
+CURRENT,mission_industry_tiliumrequired,2448,"Travel to the asteroid belt and extract *X Tilium ore.","前往小行星带，获取 *X 提利姆矿石。"
+CURRENT,mission_industry_title,2448,"Mining contract: Extract critical minerals",采矿合约：获取关键矿物
+CURRENT,mission_missioncompleted,2448,"CONTRACT COMPLETED",合约完成
 CURRENT,mission_new,2448,NEW,新任务
 CURRENT,mission_objective_done,3239,DONE,完成
 CURRENT,mission_onroute,2448,"ON ROUTE",正在前往
-CURRENT,mission_passengers_alldelivered,2448,"That's it, all passengers are on board your ship. Travel safe commander.",就这样所有乘客都上船了。旅途平安指挥官。
-CURRENT,mission_passengers_collection,2448,"Collect all passengers",集合所有乘客
-CURRENT,mission_passengers_delivery,2448,"*X out of *Y passengers are on board.","*X *Y 。"
-CURRENT,mission_passengers_description,2448,"There is a group of *X civilians who are looking for safe transit.","有一群*X 平民正在寻找安全的过境点。"
-CURRENT,mission_passengers_descriptionfurther,2448,"Their destination is *Y Sector Jumps away, in Sector *X.","他们的目的地是*Y Sector Jumps away, in Sector*X 。"
-CURRENT,mission_passengers_destination,2448,"Their destination is in this Sector. Drop them off at Star System S*X.","他们的目的地就在这个星区。将他们送到星系S*X 。"
+CURRENT,mission_passengers_alldelivered,2448,"That's it, all passengers are on board your ship. Travel safe commander.",就这样，所有乘客都上船了。祝你一路顺风，指挥官。
+CURRENT,mission_passengers_collection,2448,"Collect all passengers",集结所有乘客
+CURRENT,mission_passengers_delivery,2448,"*X out of *Y passengers are on board.","已登船的乘客：*X / *Y 。"
+CURRENT,mission_passengers_description,2448,"There is a group of *X civilians who are looking for safe transit.","有 *X 平民正在寻找安全的过境交通方式。"
+CURRENT,mission_passengers_descriptionfurther,2448,"Their destination is *Y Sector Jumps away, in Sector *X.","他们的目的地是第 *X 星区，需要经过 *Y 次星区跃迁。"
+CURRENT,mission_passengers_destination,2448,"Their destination is in this Sector. Drop them off at Star System S*X.","他们的目的地就在这个星区，将他们送到 S*X 星系。"
 CURRENT,mission_passengers_location,2448,"Transport the passengers to the destination",将乘客运送到目的地
 CURRENT,mission_passengers_lost,2448,"*X passengers did not arrive at the destination safely.","*X 乘客没有安全抵达目的地。"
-CURRENT,mission_passengers_received,2448,"*X passengers out of *Y have made it safely to their destination. Total payment due $*Z.","*X *Y 的乘客已安全抵达目的地。应付款总额 。$*Z"
-CURRENT,mission_passengers_requirements,2448,"Your ship will need enough free cabins in your habitation deck.",您的飞船需要在居住甲板上有足够的空闲舱室。
-CURRENT,mission_passengers_shuttle,2448,"They are on their way to you now and will dock shortly.",它们正在来你们这里的路上很快就会靠岸。
-CURRENT,mission_passengers_success,2448,"Transported *X out of *Y passengers","运送*X 出*Y 的乘客"
+CURRENT,mission_passengers_received,2448,"*X passengers out of *Y have made it safely to their destination. Total payment due $*Z.","*X / *Y 乘客已安全抵达目的地，待支付酬金总额为 $*Z"
+CURRENT,mission_passengers_requirements,2448,"Your ship will need enough free cabins in your habitation deck.",你飞船的居住甲板上，需要有足够的空闲舱室。
+CURRENT,mission_passengers_shuttle,2448,"They are on their way to you now and will dock shortly.",它们正在来的路上，很快就会对接。
+CURRENT,mission_passengers_success,2448,"Transported *X out of *Y passengers","已运送的乘客： *X / *Y "
 CURRENT,mission_passengers_title,2448,"Urgent passenger transport request",紧急客运请求
 CURRENT,mission_passengers_titlefurther,2448,"Passengers require transport across sectors",乘客需要跨星区运输
-CURRENT,mission_passengers_turnin,2448,"Welcome! We've dispatched a shuttle to collect the passengers.",欢迎光临我们已经派了一艘穿梭机去接乘客。
-CURRENT,mission_passengers_wrongdestination,2448,"Passengers have been dropped off at completely the wrong destination! You will not be paid for them.",乘客下车的目的地完全错误您将无法获得赔偿。
+CURRENT,mission_passengers_turnin,2448,"Welcome! We've dispatched a shuttle to collect the passengers.",欢迎光临！我们已经派了一艘穿梭机去接乘客。
+CURRENT,mission_passengers_wrongdestination,2448,"Passengers have been dropped off at completely the wrong destination! You will not be paid for them.",乘客下车的目的地完全错误，您将无法获得赔偿。
 CURRENT,mission_payment,2448,"Payment will be $*X.",报酬为$*X。
 CURRENT,mission_paymentcash,2448,"PAYMENT *X",报酬*X
 CURRENT,mission_paymentinflation,2448,"(The client is offering *Xx more money than usual)",(客户提供的报酬比平时高出*Xx)
 CURRENT,mission_paymentinflationpercent,2448,"(The client is offering *X% more money than usual)",(客户提供的报酬比平时高出*X%)
 CURRENT,mission_paymenttitle,2448,Payment,报酬
-CURRENT,mission_production_available,2448,"You have *X stacks of R*Y available for transfer within your fleet (We need *Z)","您有 *X 组 R*Y 可在舰队内转运我们需要 *Z"
-CURRENT,mission_production_description1,2448,"We have an urgent requirement for *X stacks of R*Y.","我们急需*X组R*Y 。"
-CURRENT,mission_production_description2,2448,"You can choose to manufacture the product from raw materials, or acquire it through some other means.",您可以选择用原材料生产产品也可以通过其他方式获得产品。
-CURRENT,mission_production_marketprice,2448,"The market price for these items would be $*X.","这些物品的市场价格为$*X 。"
-CURRENT,mission_production_markup,2448,"(We are offering *X% above market rate due to urgent requirement).","(由于需求紧急我们提供比市场价高出*X% 的价格。"
-CURRENT,mission_production_nomore,2448,"There is no more R*X available within your fleet.","R*X 。"
-CURRENT,mission_production_received,2448,"We have received *X stacks of R*Y out of a total of *Z.","我们已收到*X组中的R*Y 共*Z 。"
-CURRENT,mission_production_success,2448,"Provided *X/*Y items","提供*X/*Y 项目"
-CURRENT,mission_production_title,2448,"Production Contract: Manufacture resources",生产合同制造资源
+CURRENT,mission_production_available,2448,"You have *X stacks of R*Y available for transfer within your fleet (We need *Z)","你目前有 *X / R*Y 组，可在舰队内转运（我们需要 *Z）"
+CURRENT,mission_production_description1,2448,"We have an urgent requirement for *X stacks of R*Y.","我们急需 *X 组 R*Y 。"
+CURRENT,mission_production_description2,2448,"You can choose to manufacture the product from raw materials, or acquire it through some other means.",您可以选择用原材料生产物品，也可以通过其他方式获得。
+CURRENT,mission_production_marketprice,2448,"The market price for these items would be $*X.","这些物品的市场价格为 $*X 。"
+CURRENT,mission_production_markup,2448,"(We are offering *X% above market rate due to urgent requirement).","(由于需求紧急，我们提供比市场价高出 *X% 的价格。"
+CURRENT,mission_production_nomore,2448,"There is no more R*X available within your fleet.","舰队中已经没有 R*X 。"
+CURRENT,mission_production_received,2448,"We have received *X stacks of R*Y out of a total of *Z.","我们已收到 *X / *Z 组 R*Y。"
+CURRENT,mission_production_success,2448,"Provided *X/*Y items","已提供 *X/*Y"
+CURRENT,mission_production_title,2448,"Production Contract: Manufacture resources",生产合约：制造资源
 CURRENT,mission_recovered,2448,RECOVERED,已回收
-CURRENT,mission_refugees_alldelivered,2448,"All of the refugees are on board. We wish you the best of luck, commander.",所有难民都上船了祝你好运指挥官
-CURRENT,mission_refugees_description,2448,"We have *X civilians living here who have nowhere to go, and no way to escape the void before it arrives.","我们有*X 在这里生活的平民他们无处可去也无法在虚空到来之前逃离。"
+CURRENT,mission_refugees_alldelivered,2448,"All of the refugees are on board. We wish you the best of luck, commander.",所有难民都上船了。祝你一路顺风，指挥官。
+CURRENT,mission_refugees_description,2448,"We have *X civilians living here who have nowhere to go, and no way to escape the void before it arrives.","这里住着 *X 平民，他们无处可去，也无法在虚空到来之前逃离。"
 CURRENT,mission_refugees_description2,2448,"Find a place for them in your fleet, look after them, and we will be forever grateful.",在你们的舰队中为它们找个位置照顾好它们我们将永远感激不尽。
-CURRENT,mission_refugees_received,2448,"*X out of *Y passengers are on board. Total payment $*Z.","*X *Y 名乘客。付款总额 。$*Z"
-CURRENT,mission_refugees_requirements,2448,"Your ship will need enough free cabins in your habitation deck.",您的飞船需要在居住甲板上有足够的空闲舱室。
-CURRENT,mission_refugees_title,2448,"Take permanent refugees into your care",照顾永久难民
+CURRENT,mission_refugees_received,2448,"*X out of *Y passengers are on board. Total payment $*Z.","*X / *Y 名乘客已登船，酬金总额为 $*Z"
+CURRENT,mission_refugees_requirements,2448,"Your ship will need enough free cabins in your habitation deck.",你飞船的居住甲板上，需要有足够的空闲舱室。
+CURRENT,mission_refugees_title,2448,"Take permanent refugees into your care",接收难民
 CURRENT,mission_requirement_failed,2448,[FAILED],[未满足]
 CURRENT,mission_requirement_passed,2448,[PASSED],[已满足]
-CURRENT,mission_requires_cabinspace,2448,"Contract requires at least *X free cabins","合同要求至少*X 个空闲舱位"
-CURRENT,mission_requires_combatrating,2448,"You require a Combat Rating of at least *X",需要战斗等级至少达到*X
-CURRENT,mission_requires_combatvessel,2448,"Contract requires armed combat vessel",合同要求配备武装战舰
-CURRENT,mission_requires_equipment,2448,"Contract requires Equipment : *X",合同需要设备*X
-CURRENT,mission_requires_humanitarianrating,2448,"You require a Humanitarian Rating of at least *X",需要人道主义等级至少达到*X
-CURRENT,mission_requires_industryrating,2448,"You require an Industry Rating of at least *X",需要工业等级至少达到*X
-CURRENT,mission_requires_logisticsrating,2448,"You require a Logistics Rating of at least *X",需要货运等级至少达到*X
+CURRENT,mission_requires_cabinspace,2448,"Contract requires at least *X free cabins","合约要求至少有 *X 个空闲舱位"
+CURRENT,mission_requires_combatrating,2448,"You require a Combat Rating of at least *X",需要战斗等级至少达到 *X
+CURRENT,mission_requires_combatvessel,2448,"Contract requires armed combat vessel",合约要求配备武装战舰
+CURRENT,mission_requires_equipment,2448,"Contract requires Equipment : *X",合约需要设备：*X
+CURRENT,mission_requires_humanitarianrating,2448,"You require a Humanitarian Rating of at least *X",需要人道主义等级至少达到 *X
+CURRENT,mission_requires_industryrating,2448,"You require an Industry Rating of at least *X",需要工业等级至少达到 *X
+CURRENT,mission_requires_logisticsrating,2448,"You require a Logistics Rating of at least *X",需要货运等级至少达到 *X
 CURRENT,mission_requires_notindemo,2448,"Unavailable to demo players",试玩版中不可用
-CURRENT,mission_requires_stock,2448,"Contract requires *X",合同需要*X
-CURRENT,mission_requires_stock_count,2448,"Contract requires *Y *X","合同需要*Y *X"
-CURRENT,mission_rescue_accepted,2448,"We've marked the location of the wrecked ship on your map. Please hurry!",我们已经在地图上标出了失事船只的位置。请抓紧时间
-CURRENT,mission_rescue_allrescued,2448,"All crew have been rescued from the ship! Drop them off at the nearest starbase or colony.",所有船员都已从飞船上获救将他们送到最近的星际基地或殖民地。
-CURRENT,mission_rescue_description1,2448,"A ship has become stranded with engine troubles, and the crew need an immediate rescue.",一艘船因引擎故障搁浅船员需要立即救援。
-CURRENT,mission_rescue_description2,2624,"The damaged ship is nearby in system S*X. Hurry!","受损飞船就在附近的S*X 星系。快点"
-CURRENT,mission_rescue_description2b,2448,"The ship is in the next sector.",飞船在下一个区域。
+CURRENT,mission_requires_stock,2448,"Contract requires *X",合约需要 *X
+CURRENT,mission_requires_stock_count,2448,"Contract requires *Y *X","合约需要*Y *X"
+CURRENT,mission_rescue_accepted,2448,"We've marked the location of the wrecked ship on your map. Please hurry!",我们已经在地图上标出了失事船只的位置，请抓紧时间！
+CURRENT,mission_rescue_allrescued,2448,"All crew have been rescued from the ship! Drop them off at the nearest starbase or colony.",所有船员都已从飞船上获救，将他们送到最近的星港或殖民地。
+CURRENT,mission_rescue_description1,2448,"A ship has become stranded with engine troubles, and the crew need an immediate rescue.",一艘船因引擎故障而搁浅，船员需要立即救援。
+CURRENT,mission_rescue_description2,2624,"The damaged ship is nearby in system S*X. Hurry!","受损船只就在附近的 S*X 星系，请尽快行动！"
+CURRENT,mission_rescue_description2b,2448,"The ship is in the next sector.",那艘船在下一个星区。
 CURRENT,mission_rescue_description3,2448,"There are *X crew on board, and they must be dropped off safely somewhere nearby.","船上有*X 名船员必须将他们安全送到附近的某个地方。"
 CURRENT,mission_rescue_destroyed,2448,"The ship engine core exploded.",飞船引擎核心爆炸。
 CURRENT,mission_rescue_hostiles,2448,"There are hostile forces in the area. (+50% pay)","该地区有敌对势力。(+50% 报酬"
 CURRENT,mission_rescue_location,2448,"Travel to the stranded ship",前往搁浅船只
 CURRENT,mission_rescue_lost,2448,"*X crew did not arrive safely.","*X 船员没有安全抵达。"
 CURRENT,mission_rescue_meteors,2448,"There are reports of a meteor shower in the area. (+25% pay).",有报告称该地区将出现流星雨。(+25%报酬。
-CURRENT,mission_rescue_received,2448,"*X crew out of *Y have made it to safety. Total payment due $*Z.","*X *Y 中的人员已安全抵达。总付款到期 。$*Z"
-CURRENT,mission_rescue_requirements,2448,"You will require at least four manoeuvring thrusters to successfully dock with the damaged ship.",您至少需要四个机动推进器才能成功与受损的飞船对接。
-CURRENT,mission_rescue_rescued,2448,"*X crew out of *Y have been rescued and are on board.","*X *Y 的船员已获救上船。"
-CURRENT,mission_rescue_spin,2448,"The ship is spinning out of control. It will be very challenging to dock. (+25% pay)","这艘船正在失控。靠岸将非常具有挑战性。(+25% 报酬"
-CURRENT,mission_rescue_thrust,2448,"The ship is moving - you will need some skill to dock safely. (+25% pay)","船在移动--你需要一些技巧才能安全靠岸。(+25% 报酬"
-CURRENT,mission_rescue_timed,2448,"The ship engines will explode very soon. (+25% pay).","飞船引擎很快就会爆炸。(+25% 报酬。"
-CURRENT,mission_rescue_timer,2448,"The ship engine core will explode in just *X seconds!!","飞船引擎核心将在*X 秒内爆炸"
+CURRENT,mission_rescue_received,2448,"*X crew out of *Y have made it to safety. Total payment due $*Z.","*X / *Y 人已安全抵达。待支付酬金总额为 $*Z"
+CURRENT,mission_rescue_requirements,2448,"You will require at least four manoeuvring thrusters to successfully dock with the damaged ship.",你至少需要四个机动推进器，才能成功与受损的船只对接。
+CURRENT,mission_rescue_rescued,2448,"*X crew out of *Y have been rescued and are on board.","*X / *Y 船员已获救上船。"
+CURRENT,mission_rescue_spin,2448,"The ship is spinning out of control. It will be very challenging to dock. (+25% pay)","这艘船正在失控，与其对接难度非常高。（+25% 报酬）"
+CURRENT,mission_rescue_thrust,2448,"The ship is moving - you will need some skill to dock safely. (+25% pay)","这艘船在移动，与其对接有一定难度。（+25% 报酬）"
+CURRENT,mission_rescue_timed,2448,"The ship engines will explode very soon. (+25% pay).","这艘船的引擎很快就会爆炸。(+25% 报酬）"
+CURRENT,mission_rescue_timer,2448,"The ship engine core will explode in just *X seconds!!","这艘船的引擎核心将在 *X 秒内爆炸"
 CURRENT,mission_rescue_title,2448,"Rescue civilians from wrecked ship",从失事船只中营救平民
 CURRENT,mission_reward,2448,PAYMENT,奖励
 CURRENT,mission_sectordestory_success,2448,"HOSTILES ELIMINATED",消灭敌人
-CURRENT,mission_sectordestroy_desc1,2448,"Hostile forces have taken up residence within this sector. They are hindering our evacuation efforts and stealing vital resources.",敌对势力已经在这一区域占据了一席之地。他们阻碍了我们的撤离工作并窃取了重要资源。
-CURRENT,mission_sectordestroy_desc2,2448,"We want you to pay a visit to each location marked HOSTILES on the map.","我们希望您访问地图上标有 HOSTILES 的每个地点。"
+CURRENT,mission_sectordestroy_desc1,2448,"Hostile forces have taken up residence within this sector. They are hindering our evacuation efforts and stealing vital resources.",敌对势力已经在这一星区占据了一席之地，他们正在妨碍我们的撤离工作，并不断窃取重要资源。
+CURRENT,mission_sectordestroy_desc2,2448,"We want you to pay a visit to each location marked HOSTILES on the map.","我们希望你前往地图上标有 “敌对势力” 的每个地点。"
 CURRENT,mission_sectordestroy_desc3,2448,"Terminate any enemy vessels you find at those locations.",终结在这些地点发现的任何敌舰。
 CURRENT,mission_sectordestroy_map,2448,"Destroy hostiles [*X/*Y]","消灭敌人 [*X/*Y]"
-CURRENT,mission_sectordestroy_payment,2448,"A payment of $*X will be made after each location is cleared, for a total of $*Y.","每个地点结算后将支付$*X 总计$*Y 。"
-CURRENT,mission_sectordestroy_progress,2448,"Cleared *X out of *Y systems","将*X 从*Y 系统中清除"
-CURRENT,mission_sectordestroy_system,2624,"You have destroyed the enemy forces in system S*X. Payment of $*Y is coming your way.","你已消灭S*X 星系的敌军。报酬$*Y 即将到账。"
-CURRENT,mission_sectordestroy_title,2448,"SECTOR OBJECTIVE: Destroy all hostile forces",地区目标消灭所有敌对势力
-CURRENT,mission_sectorevacuate_arrived,2448,"*X passengers out of *Y have made it safely to their destination. Total payment $*Z.","*X *Y 的乘客已安全抵达目的地。付款总额 。$*Z"
+CURRENT,mission_sectordestroy_payment,2448,"A payment of $*X will be made after each location is cleared, for a total of $*Y.","每个地点清空敌人后，我们将支付 $*X，总计 $*Y 。"
+CURRENT,mission_sectordestroy_progress,2448,"Cleared *X out of *Y systems","将 *X 从 *Y 星系中清除"
+CURRENT,mission_sectordestroy_system,2624,"You have destroyed the enemy forces in system S*X. Payment of $*Y is coming your way.","你已消灭 S*X 星系的敌军。酬金 $*Y 即将到账。"
+CURRENT,mission_sectordestroy_title,2448,"SECTOR OBJECTIVE: Destroy all hostile forces",星区目标：消灭所有敌对势力
+CURRENT,mission_sectorevacuate_arrived,2448,"*X passengers out of *Y have made it safely to their destination. Total payment $*Z.","*X / *Y 乘客已安全抵达目的地，酬金总额为 $*Z"
 CURRENT,mission_sectorevacuate_description,2448,"There are *X civilians stranded in the sector, with no means to escape the coming catastrophe.","有*X 名平民被困在这一区域无法逃离即将到来的灾难。"
-CURRENT,mission_sectorevacuate_description2,2448,"Travel to their star systems and pick them up, and house them temporarily in your fleet.",前往他们的星系把他们接来暂时安置在你的舰队中。
-CURRENT,mission_sectorevacuate_description3,2448,"Transport them safely to the next sector and drop them off at the first starbase to complete the objective.",将他们安全运送到下一个区域然后将他们送到第一个星际基地完成目标。
+CURRENT,mission_sectorevacuate_description2,2448,"Travel to their star systems and pick them up, and house them temporarily in your fleet.",前往他们的星系，把他们接过来，暂时安置在你的舰队中。
+CURRENT,mission_sectorevacuate_description3,2448,"Transport them safely to the next sector and drop them off at the first starbase to complete the objective.",将他们安全运送到下一个星区的任一星港以完成目标。
 CURRENT,mission_sectorevacuate_died,2448,"*X civilians have been killed during the evacuation.","*X 平民在撤离过程中丧生。"
-CURRENT,mission_sectorevacuate_finished,2448,"Thank you for your efforts commander.",感谢您的努力指挥官。
+CURRENT,mission_sectorevacuate_finished,2448,"Thank you for your efforts commander.",感谢您的努力，指挥官。
 CURRENT,mission_sectorevacuate_lost,2448,"*X passengers did not arrive at the destination safely.","*X 乘客没有安全抵达目的地。"
 CURRENT,mission_sectorevacuate_map,2448,"Evacuate civilians [*X/*Y]","疏散平民 [*X/*Y]"
-CURRENT,mission_sectorevacuate_payment,2448,"The total payment for rescuing all *X civilians will be $*Y","营救所有*X 平民的总费用为$*Y"
-CURRENT,mission_sectorevacuate_received,2448,"*X out of *Y civilians have been collected.","*X *Y 中收集到的平民数据。"
-CURRENT,mission_sectorevacuate_requirements,2448,"Your ship will need enough free cabins in your habitation deck.",您的飞船需要在居住甲板上有足够的空闲舱室。
-CURRENT,mission_sectorevacuate_requirements2,2448,"(You can expand your hab deck at a Shipyard using the Ship Editor)",(您可以使用舰船编辑器在船坞扩展您的居住甲板
-CURRENT,mission_sectorevacuate_title,2448,"SECTOR OBJECTIVE: Evacuate stranded civilians",星区目标疏散受困平民
-CURRENT,mission_sectorjumpgate_damage,2624,"The Jumpgate is damaged, and must be repaired and re-aligned.",星门已损坏必须进行修复并重新校准。
+CURRENT,mission_sectorevacuate_payment,2448,"The total payment for rescuing all *X civilians will be $*Y","营救所有 *X 平民的总酬金为 $*Y"
+CURRENT,mission_sectorevacuate_received,2448,"*X out of *Y civilians have been collected.","*X / *Y 平民已救援。"
+CURRENT,mission_sectorevacuate_requirements,2448,"Your ship will need enough free cabins in your habitation deck.",你飞船的居住甲板上，需要有足够的空闲舱室。
+CURRENT,mission_sectorevacuate_requirements2,2448,"(You can expand your hab deck at a Shipyard using the Ship Editor)",（你可以使用舰船编辑器，在船坞扩展你的居住甲板）
+CURRENT,mission_sectorevacuate_title,2448,"SECTOR OBJECTIVE: Evacuate stranded civilians",星区目标：疏散受困平民
+CURRENT,mission_sectorjumpgate_damage,2624,"The Jumpgate is damaged, and must be repaired and re-aligned.",星门已损坏，必须进行修复并重新校准。
 CURRENT,mission_sectorjumpgate_description1,2624,"The Jumpgate at the end of this sector has some requirements before it can be used.",本星区末端的星门在使用前需要满足一些条件。
-CURRENT,mission_sectorjumpgate_hostiles,2624,"Eradicate hostile blockade",清除敌对封锁
-CURRENT,mission_sectorjumpgate_hostiles2,2624,"A fleet of hostile ships is attempting to blockade the jumpgate and extort money from ships passing through.",一支敌对舰队正试图封锁星门向通过的船只勒索钱财。
-CURRENT,mission_sectorjumpgate_hostiles3,2624,"You'll need to clear them out before we can safely activate the jumpgate.",在我们能安全启动星门之前你需要先清除他们。
+CURRENT,mission_sectorjumpgate_hostiles,2624,"Eradicate hostile blockade",清除敌对势力的封锁
+CURRENT,mission_sectorjumpgate_hostiles2,2624,"A fleet of hostile ships is attempting to blockade the jumpgate and extort money from ships passing through.",一支敌对舰队正试图封锁星门，向通过的船只勒索钱财。
+CURRENT,mission_sectorjumpgate_hostiles3,2624,"You'll need to clear them out before we can safely activate the jumpgate.",在我们能安全启动星门之前，你需要先清除他们。
 CURRENT,mission_sectorjumpgate_map,2624,"Activate the Jumpgate",启动星门
-CURRENT,mission_sectorjumpgate_materialprovided,2624,"Provided *X/*Y R*Z","已提供*X/*Y R*Z"
-CURRENT,mission_sectorjumpgate_materials,2624,"We need some maintainence supplies before the jumpgate can be used.",在使用星门之前我们需要一些维护物资。
+CURRENT,mission_sectorjumpgate_materialprovided,2624,"Provided *X/*Y R*Z","已提供R*Z *X/*Y"
+CURRENT,mission_sectorjumpgate_materials,2624,"We need some maintainence supplies before the jumpgate can be used.",在使用星门之前，我们需要一些维护物资。
 CURRENT,mission_sectorjumpgate_materialsrequired,2624,"We require *X R*Y","我们需要*X R*Y"
-CURRENT,mission_sectorjumpgate_paythetoll,2624,"Pay the transit fee (*X)",支付通行费(*X)
+CURRENT,mission_sectorjumpgate_paythetoll,2624,"Pay the transit fee (*X)",支付通行费（*X）
 CURRENT,mission_sectorjumpgate_provide,2624,"Provide Materials",提供材料
 CURRENT,mission_sectorjumpgate_ready,2624,"The Jumpgate is now ready for use.",星门现在可以使用了。
-CURRENT,mission_sectorjumpgate_ready2,2624,"Please maneuver all fleet ships into the jumpgate and align for transit.",请将舰队所有舰船驶入星门并对准以进行传送。
+CURRENT,mission_sectorjumpgate_ready2,2624,"Please maneuver all fleet ships into the jumpgate and align for transit.",请将舰队所有舰船驶入星门，并对准以进行传送。
 CURRENT,mission_sectorjumpgate_repair,2624,"Repair the jumpgate",修复星门
-CURRENT,mission_sectorjumpgate_repaired,2624,"Thank you, the Jumpgate has been repaired and re-aligned.",谢谢星门已修复并重新校准。
-CURRENT,mission_sectorjumpgate_title,2624,"SECTOR OBJECTIVE: Activate the Jumpgate",星区目标激活星门
+CURRENT,mission_sectorjumpgate_repaired,2624,"Thank you, the Jumpgate has been repaired and re-aligned.",谢谢，星门已修复并重新校准。
+CURRENT,mission_sectorjumpgate_title,2624,"SECTOR OBJECTIVE: Activate the Jumpgate",星区目标：激活星门
 CURRENT,mission_sectorjumpgate_toll,2624,"There is a TRANSIT FEE to pay for use of the Jumpgate. This money covers the operating costs and energy consumption of such a massive facility.",使用星门需支付通行费。这笔费用用于支付此庞大设施的运营成本及能源消耗。
-CURRENT,mission_sectorjumpgate_tollpaid,2624,"Thank you, payment received for transit.",谢谢已收到通行费。
-CURRENT,mission_sectorprotect_accepted,2448,"We've marked the location of the ship on your map. Please hurry!",我们已在地图上标记了该船位置。请抓紧时间
+CURRENT,mission_sectorjumpgate_tollpaid,2624,"Thank you, payment received for transit.",谢谢，已收到通行费。
+CURRENT,mission_sectorprotect_accepted,2448,"We've marked the location of the ship on your map. Please hurry!",我们已在地图上标记了该船位置，请抓紧时间！
 CURRENT,mission_sectorprotect_action_payment,2448,"TAKE CASH REWARD",领取现金奖励
-CURRENT,mission_sectorprotect_action_ship,2448,"TAKE SHIP REWARD",领取飞船奖励
+CURRENT,mission_sectorprotect_action_ship,2448,"TAKE SHIP REWARD",领取舰船奖励
 CURRENT,mission_sectorprotect_allenemieskilled,2448,"All enemies destroyed.",所有敌人已被消灭。
 CURRENT,mission_sectorprotect_call,2475,"INCOMING DISTRESS CALL",收到求救信号
-CURRENT,mission_sectorprotect_calltoarms,2448,"The vessel is under attack! Fight off the hostile ships before it's too late.",该船正遭受攻击在为时已晚前击退敌舰。
+CURRENT,mission_sectorprotect_calltoarms,2448,"The vessel is under attack! Fight off the hostile ships before it's too late.",该船正遭受攻击，在为时已晚前击退敌舰。
 CURRENT,mission_sectorprotect_description1,2624,"Investigate a distress call in system S*X.","调查S*X 星系中的求救信号。"
-CURRENT,mission_sectorprotect_description2,2448,"A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage.",一艘商船正遭受不明敌军袭击且已严重受损。
-CURRENT,mission_sectorprotect_friendlykilled,2448,"Unfortunately the ship has been destroyed.",不幸的是该船已被摧毁。
-CURRENT,mission_sectorprotect_kills,2448,"*X of the *Y enemy ships have been destroyed.","已摧毁*X *Y 艘敌舰。"
+CURRENT,mission_sectorprotect_description2,2448,"A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage.",一艘商船正遭受不明敌军袭击，且已严重受损。
+CURRENT,mission_sectorprotect_friendlykilled,2448,"Unfortunately the ship has been destroyed.",不幸的是，该船已被摧毁。
+CURRENT,mission_sectorprotect_kills,2448,"*X of the *Y enemy ships have been destroyed.","已摧毁 *X *Y 艘敌舰。"
 CURRENT,mission_sectorprotect_map,2475,"Investigate Distress Call",调查求救信号
 CURRENT,mission_sectorprotect_map_initial,2448,"Investigate Distress Call",调查求救信号
-CURRENT,mission_sectorprotect_offer1,2624,"Thank you, Captain! We would never have survived without your assistance.",谢谢你舰长如果没有你的帮助我们绝对无法幸存。
-CURRENT,mission_sectorprotect_offer2,2624,"If you'd be interested, we'd be honoured to join forces with your fleet.",如果你感兴趣我们将很荣幸加入你的舰队。
-CURRENT,mission_sectorprotect_offer3,2624,"Choose your reward, Captain",选择你的奖励舰长
-CURRENT,mission_sectorprotect_sos1,2475,"To any vessel, we are under attack!  Please help, we won't last much longer!",呼叫所有船只我们正遭受攻击请支援我们撑不了多久了
+CURRENT,mission_sectorprotect_offer1,2624,"Thank you, Captain! We would never have survived without your assistance.",谢谢您，舰长！如果没有你的帮助，我们绝对无法幸存。
+CURRENT,mission_sectorprotect_offer2,2624,"If you'd be interested, we'd be honoured to join forces with your fleet.",如果您同意，我们将很荣幸加入你的舰队。
+CURRENT,mission_sectorprotect_offer3,2624,"Choose your reward, Captain",选择你的奖励，舰长
+CURRENT,mission_sectorprotect_sos1,2475,"To any vessel, we are under attack!  Please help, we won't last much longer!",呼叫所有船只，我们正遭受攻击！请立即支援，我们撑不了多久了！
 CURRENT,mission_sectorprotect_success,2448,"RESCUE COMPLETED",完成救援
-CURRENT,mission_sectorprotect_title,2448,"SECTOR OBJECTIVE: Protect ship under attack",星区目标保护受到攻击的船只
-CURRENT,mission_sectorrescue_accepted,2448,"We've marked the location of the wrecked ship on your map. Please hurry!",我们已经在地图上标出了失事船只的位置。请抓紧时间
-CURRENT,mission_sectorrescue_allrescued,2448,"All crew have been rescued from the ship! Drop them off at the nearest starbase or colony.",所有船员都已从飞船上获救将他们送到最近的星际基地或殖民地。
-CURRENT,mission_sectorrescue_awardcaption,2448,"*X People rescued.","*X 获救人员"
-CURRENT,mission_sectorrescue_description1,2624,"Investigate a distress call in system S*X.","调查S*X 星系中的求救信号。"
-CURRENT,mission_sectorrescue_hostiles,2448,"There are hostile forces in the area. (+50% pay)","该地区有敌对势力。(+50% 报酬"
-CURRENT,mission_sectorrescue_lost,2448,"*X crew did not arrive safely.","*X 船员没有安全抵达。"
+CURRENT,mission_sectorprotect_title,2448,"SECTOR OBJECTIVE: Protect ship under attack",星区目标：保护受到攻击的船只
+CURRENT,mission_sectorrescue_accepted,2448,"We've marked the location of the wrecked ship on your map. Please hurry!",我们已经在地图上标出了失事船只的位置，请抓紧时间！
+CURRENT,mission_sectorrescue_allrescued,2448,"All crew have been rescued from the ship! Drop them off at the nearest starbase or colony.",船上的所有船员都已获救！将他们送到最近的星港或殖民地。
+CURRENT,mission_sectorrescue_awardcaption,2448,"*X People rescued.","*X 人员已获救"
+CURRENT,mission_sectorrescue_description1,2624,"Investigate a distress call in system S*X.","调查 S*X 星系中的求救信号。"
+CURRENT,mission_sectorrescue_hostiles,2448,"There are hostile forces in the area. (+50% pay)","该地区有敌对势力。（+50% 报酬）"
+CURRENT,mission_sectorrescue_lost,2448,"*X crew did not arrive safely.","*X 船员没能安全抵达。"
 CURRENT,mission_sectorrescue_map,2448,"People rescued [*X/*Y]","获救人员 [*X/*Y]"
-CURRENT,mission_sectorrescue_map_initial,2448,"Investigate Distress Call",调查求救电话
-CURRENT,mission_sectorrescue_meteors,2448,"There are reports of a meteor shower in the area. (+25% pay).",有报告称该地区将出现流星雨。(+25%报酬。
-CURRENT,mission_sectorrescue_received,2448,"*X crew out of *Y have made it to safety. Payment owed $*Z.","*X *Y 中的人员已安全抵达。欠款 。$*Z"
-CURRENT,mission_sectorrescue_requirements,2448,"You will require four manoeuvring thrusters to successfully dock with the damaged ship.",您需要四个机动推进器才能成功与受损的飞船对接。
-CURRENT,mission_sectorrescue_rescued,2448,"*X crew out of *Y have been rescued and are on board.","*X *Y 的船员已获救上船。"
-CURRENT,mission_sectorrescue_spin,2448,"The ship is spinning out of control. It will be very challenging to dock. (+25% pay)","这艘船正在失控。靠岸将非常具有挑战性。(+25% 报酬"
-CURRENT,mission_sectorrescue_success,2448,"RESCUE COMPLETED",完成救援
-CURRENT,mission_sectorrescue_thrust,2448,"The ship is moving - you will need some skill to dock safely. (+25% pay)","船在移动--你需要一些技巧才能安全靠岸。(+25% 报酬"
-CURRENT,mission_sectorrescue_thrusters,2448,"NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION.",注意您至少需要四个推进器才能操纵到位。
-CURRENT,mission_sectorrescue_timed,2448,"The ship engines will explode very soon. (+25% pay).","飞船引擎很快就会爆炸。(+25% 报酬。"
-CURRENT,mission_sectorrescue_timer,2448,"The ship engine core will explode in just *X seconds!!","飞船引擎核心将在*X 秒内爆炸"
-CURRENT,mission_sectorrescue_title,2448,"SECTOR OBJECTIVE: Rescue civilians from wrecked ship",星区目标从失事船只中营救平民
+CURRENT,mission_sectorrescue_map_initial,2448,"Investigate Distress Call",调查求救信号
+CURRENT,mission_sectorrescue_meteors,2448,"There are reports of a meteor shower in the area. (+25% pay).",有报告称该地区将出现流星雨。（+25%报酬）。
+CURRENT,mission_sectorrescue_received,2448,"*X crew out of *Y have made it to safety. Payment owed $*Z.","*X / *Y 船员已安全抵达。待支付酬金：$*Z。"
+CURRENT,mission_sectorrescue_requirements,2448,"You will require four manoeuvring thrusters to successfully dock with the damaged ship.",你至少需要四个机动推进器，才能成功与受损的船只对接。
+CURRENT,mission_sectorrescue_rescued,2448,"*X crew out of *Y have been rescued and are on board.","*X / *Y 船员已获救上船。"
+CURRENT,mission_sectorrescue_spin,2448,"The ship is spinning out of control. It will be very challenging to dock. (+25% pay)","这艘船正在失控，与其对接难度非常高。（+25% 报酬）"
+CURRENT,mission_sectorrescue_success,2448,"RESCUE COMPLETED",救援任务已完成
+CURRENT,mission_sectorrescue_thrust,2448,"The ship is moving - you will need some skill to dock safely. (+25% pay)","这艘船在移动，与其对接有一定难度。（+25% 报酬）"
+CURRENT,mission_sectorrescue_thrusters,2448,"NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION.",注意：你至少需要四个推进器才能操纵到位。
+CURRENT,mission_sectorrescue_timed,2448,"The ship engines will explode very soon. (+25% pay).","这艘船的引擎很快就会爆炸。(+25% 报酬）"
+CURRENT,mission_sectorrescue_timer,2448,"The ship engine core will explode in just *X seconds!!","这艘船的引擎核心将在 *X 秒内爆炸"
+CURRENT,mission_sectorrescue_title,2448,"SECTOR OBJECTIVE: Rescue civilians from wrecked ship",星区目标：从失事船只中营救平民
 CURRENT,mission_show_completed,2448,"SHOW COMPLETED",显示已完成
 CURRENT,mission_showonmap,2448,"SHOW ON MAP",在地图上显示
 CURRENT,mission_special,2448,"Special Mission",特别任务
-CURRENT,mission_tiddlets_accepted,2448,"Excellent. We are sending a shuttle to you now.",好极了我们现在就派穿梭机过去
-CURRENT,mission_tiddlets_accepted1,2448,"Thank you very much for helping us with these unique creatures. If I'm honest, we have struggled to find a captain who was willing to undertake this mission.",非常感谢你帮助我们找到这些独特的生物。老实说我们一直在努力寻找愿意承担这项任务的舰长。
-CURRENT,mission_tiddlets_accepted2,2448,"We have left you with a litter of eight female Tiddlets, along with some comfortable crates for them to sleep in.","我们给你们留下了一窝八只雌性 提德莱特们还有一些舒适的箱子供它们睡觉。"
-CURRENT,mission_tiddlets_accepted3,2448,"Please take very good care of them!",请好好照顾它们
-CURRENT,mission_tiddlets_alldelivered,2448,"We have received all of your Tiddlets. Thank you so much!",我们已经收到了你们所有的提德莱特。非常感谢
-CURRENT,mission_tiddlets_alldelivered1,2448,"All 8 Tiddlets have been delivered.","所有 8 只提德莱特均已交付。"
-CURRENT,mission_tiddlets_alldelivered2,2448,"Now, there is one crucial detail you must adhere to, in order to safely transport these Tiddlets.",现在为了安全运输这些提德莱特们 您必须遵守一个关键细节。
-CURRENT,mission_tiddlets_alldelivered3,2448,"They can survive up to *X seconds in hyperspace safely, but anything beyond that risks them dying of shock.","它们在超空间中最多可以安全存活 *X 秒 但超过这个时间它们就有可能因休克而死亡。"
-CURRENT,mission_tiddlets_alldelivered4,2448,"Please be very careful when choosing your hyperspace route.",在选择超空间路线时请务必小心谨慎。
+CURRENT,mission_tiddlets_accepted,2448,"Excellent. We are sending a shuttle to you now.",好极了，我们现在就派穿梭机过去。
+CURRENT,mission_tiddlets_accepted1,2448,"Thank you very much for helping us with these unique creatures. If I'm honest, we have struggled to find a captain who was willing to undertake this mission.",非常感谢你帮助我们找到这些独特的生物。老实说，我们一直在努力寻找愿意承担这项任务的舰长。
+CURRENT,mission_tiddlets_accepted2,2448,"We have left you with a litter of eight female Tiddlets, along with some comfortable crates for them to sleep in.","我们给你留了一窝八只雌性提德莱特，还有一些舒适的箱子供它们睡觉。"
+CURRENT,mission_tiddlets_accepted3,2448,"Please take very good care of them!",请好好照顾它们！
+CURRENT,mission_tiddlets_alldelivered,2448,"We have received all of your Tiddlets. Thank you so much!",我们已经接收了你这边所有的提德莱特。非常感谢！
+CURRENT,mission_tiddlets_alldelivered1,2448,"All 8 Tiddlets have been delivered.","8 只提德莱特均已交付。"
+CURRENT,mission_tiddlets_alldelivered2,2448,"Now, there is one crucial detail you must adhere to, in order to safely transport these Tiddlets.",现在，为了安全运输这些提德莱特，你必须遵守一个关键细节。
+CURRENT,mission_tiddlets_alldelivered3,2448,"They can survive up to *X seconds in hyperspace safely, but anything beyond that risks them dying of shock.","它们在超空间中最多可以安全存活 *X 秒，但超过这个时间，它们就有可能因休克而死亡。"
+CURRENT,mission_tiddlets_alldelivered4,2448,"Please be very careful when choosing your hyperspace route.",在选择超空间路线时，请务必小心谨慎。
 CURRENT,mission_tiddlets_dead,2448,"There are now *X dead tiddlets on board","现在船上有 *X 只死掉的提德莱特。"
 CURRENT,mission_tiddlets_delivered,2448,"We have delivered *X out of 8 Tiddlets.","我们已经交付了 *X / 8 只提德莱特。"
-CURRENT,mission_tiddlets_description1,2448,"We need a transport vessel to ferry a litter of lovable, rare live animals to a sanctuary, many jumps away.",我们需要一艘运输船将一窝可爱的珍稀活体动物运往远在千里之外的避难所。
-CURRENT,mission_tiddlets_description2,2448,"The animals aren't dangerous, but they do have some special requirements that must be closely followed or they will not survive the journey.",这些动物并不危险但它们有一些特殊的要求必须严格遵守否则就无法在旅途中存活下来。
-CURRENT,mission_tiddlets_description3,2448,"We will pay $*X if the entire litter is delivered safely.","如果整窝婴儿安全送达我们将支付$*X 。"
-CURRENT,mission_tiddlets_extrareward1,2448,"Since you delivered an entirely new litter to us, we thought it only fair to reward you with a gift.",既然您为我们提供了全新的垃圾我们认为送您一份礼物是非常公平的。
-CURRENT,mission_tiddlets_extrareward2,2448,"We have sent you a couple of prototype Long Range Hyperspace Sensors. They are much more sensitive than the standard model. We hope you find them useful.",我们给你寄去了几个超空间长距离传感器的原型。它们比标准型号更加灵敏。希望对您有用。
-CURRENT,mission_tiddlets_extras,2448,"We have now received an additional *X Tiddlets!","我们现在又收到了 *X 只提德莱特"
-CURRENT,mission_tiddlets_failure,2448,"What the hell happened? We trusted you with those Tiddlets and you let us down!",到底发生了什么事 我们信任你你却让我们失望了
-CURRENT,mission_tiddlets_invite1,2448,"Greetings! We are looking for a pilot who can help us with an important animal welfare matter.",您好 我们正在寻找一名能够帮助我们处理一项重要动物福利事务的飞行员。
-CURRENT,mission_tiddlets_invite2,2448,"If you'd like to help (and earn a lot of credits) please find our job in the CONTRACTS list.","如果您想提供帮助并获得大量信用点请在 合同 列表中找到我们的工作。"
-CURRENT,mission_tiddlets_notenough,2448,"But we trusted you to look after their safety. You've let us down.",但我们信任你让你照顾他们的安全。你让我们失望了
-CURRENT,mission_tiddlets_payment,2448,"We have safely received *X out of 8 Tiddlets - Payment due $*Y","我们已安全收到*X / 8 只提德莱特 应付金额 $*Y"
-CURRENT,mission_tiddlets_reproduction1,2448,"Oh my goodness! We were certain all 8 were female, but clearly we made a mistake.","我的天啊 我们确定这 8 只都是母的 但显然我们搞错了。"
-CURRENT,mission_tiddlets_reproduction2,2448,"We would suggest you separate them, but tiddlets reproduce telepathically, and only ever during hyperspace travel.",我们建议你把它们分开 但蝶提德莱特是通过心灵感应繁殖的 而且只能在超空间跃迁过程中繁殖。
+CURRENT,mission_tiddlets_description1,2448,"We need a transport vessel to ferry a litter of lovable, rare live animals to a sanctuary, many jumps away.",我们需要一艘运输船，将一窝可爱的珍稀活体动物运往远在千里之外的避难所。
+CURRENT,mission_tiddlets_description2,2448,"The animals aren't dangerous, but they do have some special requirements that must be closely followed or they will not survive the journey.",这些动物并不危险，但它们有一些特殊的要求必须严格遵守，否则就无法在旅途中存活下来。
+CURRENT,mission_tiddlets_description3,2448,"We will pay $*X if the entire litter is delivered safely.","如果整窝都能安全送达，我们将支付酬金 $*X 。"
+CURRENT,mission_tiddlets_extrareward1,2448,"Since you delivered an entirely new litter to us, we thought it only fair to reward you with a gift.",既然你为我们带来了新的一窝，送您一份礼物是非常公平交易。
+CURRENT,mission_tiddlets_extrareward2,2448,"We have sent you a couple of prototype Long Range Hyperspace Sensors. They are much more sensitive than the standard model. We hope you find them useful.",我们给你送去了几个超空间长距离传感器的原型机，它们比标准型号更加灵敏，希望对你有用。
+CURRENT,mission_tiddlets_extras,2448,"We have now received an additional *X Tiddlets!","我们又收到了 *X 只提德莱特！"
+CURRENT,mission_tiddlets_failure,2448,"What the hell happened? We trusted you with those Tiddlets and you let us down!",到底发生了什么事？我们曾经那么信任你，你辜负了我们！
+CURRENT,mission_tiddlets_invite1,2448,"Greetings! We are looking for a pilot who can help us with an important animal welfare matter.",你好，我们正在寻找一名能够帮助我们处理一项重要动物福利事务的飞行员。
+CURRENT,mission_tiddlets_invite2,2448,"If you'd like to help (and earn a lot of credits) please find our job in the CONTRACTS list.","如果您想提供帮助（并获得大量酬金）请在“合约”列表中找到我们的工作。"
+CURRENT,mission_tiddlets_notenough,2448,"But we trusted you to look after their safety. You've let us down.",但我们曾经信任你，让你照顾他们的安全。你辜负了我们。
+CURRENT,mission_tiddlets_payment,2448,"We have safely received *X out of 8 Tiddlets - Payment due $*Y","我们已安全收到 *X / 8 只提德莱特，待支付酬金 $*Y"
+CURRENT,mission_tiddlets_reproduction1,2448,"Oh my goodness! We were certain all 8 were female, but clearly we made a mistake.","我的天啊！我们很确定这 8 只都是母的，看来是搞错了。"
+CURRENT,mission_tiddlets_reproduction2,2448,"We would suggest you separate them, but tiddlets reproduce telepathically, and only ever during hyperspace travel.",我们建议你把它们分开，但提德莱特是通过心灵感应繁殖的，而且只能在超空间跃迁过程中进行繁殖。
 CURRENT,mission_tiddlets_saferadius,2448,"TIDDLET SAFE DISTANCE",提德莱特安全距离
-CURRENT,mission_tiddlets_shock,2448,"Oh my goodness!! There are so many of them!",我的天 这么多
+CURRENT,mission_tiddlets_shock,2448,"Oh my goodness!! There are so many of them!",我的天！！这么多！
 CURRENT,mission_tiddlets_stillalive,2448,"Tiddlets still alive : *X","*X 只提德莱特还活着"
-CURRENT,mission_tiddlets_success,2448,"Delivered *X Tiddlets","交付*X只提德莱特"
+CURRENT,mission_tiddlets_success,2448,"Delivered *X Tiddlets","交付 *X 只提德莱特"
 CURRENT,mission_tiddlets_suppliername,2448,"Tiddlet Breeder","提德莱特饲养员"
 CURRENT,mission_tiddlets_title,2448,"The trouble with Tiddlets","提德莱特的麻烦"
-CURRENT,mission_tiddletssale_accepted1,2448,"If you have Tiddlets available then bring them to us and we will reward you handsomely.","如果您有可用的 Tiddlets请把它们带给我们我们会给您丰厚的奖励。"
-CURRENT,mission_tiddletssale_accepted2,2448,"We won't ask any questions as to where they came from. But we will need every Tiddlet you have - so we can be sure there is at least one male among the litter.","我们不会询问它们来自哪里。但是我们需要您的每一只 Tiddlet这样我们才能确保这窝 Tiddlet 中至少有一只雄性。"
-CURRENT,mission_tiddletssale_allreceived,2448,"Well, thank you very much. With this many Tiddlets we can begin farming these delicious creatures immediately.","非常感谢有了这么多提德莱 我们就可以马上开始养殖这些美味的生物了"
-CURRENT,mission_tiddletssale_buyername,2448,"Shady Buyer",阴暗买家
-CURRENT,mission_tiddletssale_description1,2448,"We are willing to pay a very generous price to any individual who can supply us with one or more Tiddlets.","如果有人能向我们提供一只或更多的 Tiddlets我们愿意支付非常慷慨的价格。"
-CURRENT,mission_tiddletssale_fulloffer,2448,"We are offering you $*Y for all *X of your Tiddlets.","我们将为您提供$*Y *X 您的 Tiddlets。"
+CURRENT,mission_tiddletssale_accepted1,2448,"If you have Tiddlets available then bring them to us and we will reward you handsomely.","如果您有提德莱特，请把它们带给我们，我们会给您丰厚的酬金。"
+CURRENT,mission_tiddletssale_accepted2,2448,"We won't ask any questions as to where they came from. But we will need every Tiddlet you have - so we can be sure there is at least one male among the litter.","我们不会问它们从哪里来，不过需要所有的提德莱特， 这样才能确保这窝提德莱特中至少有一只雄性。"
+CURRENT,mission_tiddletssale_allreceived,2448,"Well, thank you very much. With this many Tiddlets we can begin farming these delicious creatures immediately.","非常感谢，有了这么多提德莱，我们就可以马上开始养殖这些美味的生物了。"
+CURRENT,mission_tiddletssale_buyername,2448,"Shady Buyer",可疑买家
+CURRENT,mission_tiddletssale_description1,2448,"We are willing to pay a very generous price to any individual who can supply us with one or more Tiddlets.","如果有人能向我们提供一只或更多的提德莱特，我们愿意支付非常慷慨的价格。"
+CURRENT,mission_tiddletssale_fulloffer,2448,"We are offering you $*Y for all *X of your Tiddlets.","我们将给你支付 $*Y 以购买 *X 只提德莱特。"
 CURRENT,mission_tiddletssale_invite1,2448,"We've heard a rumour you might have some rare, valuable life-forms on board.",我们听说你的飞船上可能有一些稀有、珍贵的生命体。
-CURRENT,mission_tiddletssale_invite2,2448,"Stop by your nearest Contract Board and we might be able to make a deal.",请到离您最近的合同委员会我们也许能做成一笔交易。
-CURRENT,mission_tiddletssale_offer,2448,"We will pay $*X for every Tiddlet you have.","我们将为您的每个 Tiddlet 支付$*X 。"
-CURRENT,mission_tiddletssale_received,2448,"We have received *X Tiddlets. Total payment due $*Y.","我们已收到*X Tiddlets。应付款总额$*Y 。"
-CURRENT,mission_tiddletssale_success,2448,"Traded *X Tiddlets","交易*X Tiddlets"
-CURRENT,mission_tiddletssale_title,2448,"WANTED: Tiddlets",求购提德莱特
-CURRENT,mission_turnin,2448,"Turn in contract",提交合同
+CURRENT,mission_tiddletssale_invite2,2448,"Stop by your nearest Contract Board and we might be able to make a deal.",请到离您最近的合约板，我们也许能做成一笔交易。
+CURRENT,mission_tiddletssale_offer,2448,"We will pay $*X for every Tiddlet you have.","我们将为您的每一只提德莱特支付 $*X 。"
+CURRENT,mission_tiddletssale_received,2448,"We have received *X Tiddlets. Total payment due $*Y.","我们已收到 *X 只提德莱特，应付酬金总额 $*Y 。"
+CURRENT,mission_tiddletssale_success,2448,"Traded *X Tiddlets","已交易 *X 只提德莱特"
+CURRENT,mission_tiddletssale_title,2448,"WANTED: Tiddlets",求购：提德莱特
+CURRENT,mission_turnin,2448,"Turn in contract",提交合约
 CURRENT,mission_type_combat,2448,Combat,战斗
 CURRENT,mission_type_delivery,2448,Delivery,运输
-CURRENT,mission_type_episodetiddlets,2448,"Deliver Tiddlets","交付 Tiddlets"
-CURRENT,mission_type_episodetiddletssale,2448,"WANTED: Tiddlets",通缉鲰
+CURRENT,mission_type_episodetiddlets,2448,"Deliver Tiddlets","交付提德莱特"
+CURRENT,mission_type_episodetiddletssale,2448,"WANTED: Tiddlets",求购：提德莱特
 CURRENT,mission_type_fortress,2872,"Destroy Hostile Fortress",摧毁敌对星际堡垒
 CURRENT,mission_type_industry,2448,"Asteroid Mining",小行星采矿
 CURRENT,mission_type_passengers,2448,"Transport passengers",运送乘客
@@ -1371,12 +1371,12 @@ CURRENT,mission_type_refugees,2448,Refugees,难民
 CURRENT,mission_type_rescue,2448,Rescue,救援
 CURRENT,mission_type_sectordestroy,2448,"Destroy Hostile Forces",摧毁敌对势力
 CURRENT,mission_type_sectorevacuate,2448,"Evacuate Sector",撤离区
-CURRENT,mission_type_sectorjumpgate,2639,"Jumpgate (Sector)",星门星区
-CURRENT,mission_type_sectorprotect,2448,"Protect (Sector)",保护星区
-CURRENT,mission_type_sectorrescue,2448,"Rescue (Sector)",救援星区
+CURRENT,mission_type_sectorjumpgate,2639,"Jumpgate (Sector)",星门（星区）
+CURRENT,mission_type_sectorprotect,2448,"Protect (Sector)",保护（星区）
+CURRENT,mission_type_sectorrescue,2448,"Rescue (Sector)",救援（星区）
 CURRENT,mission_type_tutorialflightready,2448,DESTINATION,目的地
-CURRENT,mission_youarehere,2448,"YOU ARE HERE",您在这里
-CURRENT,missions_title,2448,CONTRACTS,合同
+CURRENT,mission_youarehere,2448,"YOU ARE HERE",当前位置
+CURRENT,missions_title,2448,CONTRACTS,合约
 CURRENT,newmainmenu_abandon,2448,"ABANDON GAME",放弃当前游戏
 CURRENT,newmainmenu_aiselection_auto,2448,"AI Controlled - Auto-select","AI 控制 - 自动选择"
 CURRENT,newmainmenu_aiselection_none,2448,"Player Controlled",玩家控制
@@ -1461,11 +1461,11 @@ CURRENT,nomadobjective_current,2448,"You currently have *X residents within your
 CURRENT,nomadobjective_description1,2448,"It's possible we won't ever be able to stop the void collapse anomaly.",我们有可能永远无法阻止虚空坍塌异常现象。
 CURRENT,nomadobjective_description2,2448,"It may just keep expanding forever. There may be nowhere safe for us to stop.",它可能会一直扩张下去我们可能无处可停。
 CURRENT,nomadobjective_description3,2448,"In which case we need to get used to living on self sufficient ships, indefinitely.",在这种情况下我们需要习惯无限期地在自给自足的飞船上生活。
-CURRENT,nomadobjective_nextbonus,2448,"Next bonus when population reaches *X residents - $*Y.","当人口达到*X 居民时的下一个奖励 -$*Y 。"
+CURRENT,nomadobjective_nextbonus,2448,"Next bonus when population reaches *X residents - $*Y.","当人口达到 *X 居民时的下一个奖励 -$*Y 。"
 CURRENT,nomadobjective_success,2448,"*X fleet residents","*X 舰队居民"
-CURRENT,nomadobjective_successbonus,2448,"Population has reached *X residents. Funding bonus $*Y.","人口已达到*X 居民。资金奖励$*Y 。"
-CURRENT,nomadobjective_title,2448,"SPECIAL MISSION: NOMAD",特别任务游牧民
-CURRENT,nomadobjective_total,2448,"Your highest population was *X residents within your fleet.","你的舰队中人口最多的是*X 居民。"
+CURRENT,nomadobjective_successbonus,2448,"Population has reached *X residents. Funding bonus $*Y.","人口已达到 *X 居民。资金奖励$*Y 。"
+CURRENT,nomadobjective_title,2448,"SPECIAL MISSION: NOMAD",特别任务：移民
+CURRENT,nomadobjective_total,2448,"Your highest population was *X residents within your fleet.","你的舰队中人口最多的是 *X 居民。"
 CURRENT,object_airduct,2448,Airduct,通风机
 CURRENT,object_airduct_description,2448,"Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe.",将氧气泵入周围的舱室直至达到可呼吸的环境。必须通过管道供应氧气。
 CURRENT,object_airreprocessor,2448,"Air Reprocessor",造氧机
@@ -1593,7 +1593,7 @@ CURRENT,object_railgun,2448,Railgun,轨道炮
 CURRENT,object_railgun_description,2448,"An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot.",一种极其精准的远程武器系统可发射固体金属弹头。轨道炮是一种精确的武器可以穿透船体装甲摧毁目标飞船内的设备。不过这种武器每次发射后都需要消耗大量能量来充电。
 CURRENT,object_railgunshell,2448,"Railgun Slugs",轨道炮弹头
 CURRENT,object_railgunshell_description,2448,"A box of ammo for a Railgun.",一盒轨道炮用弹药。
-CURRENT,object_reactor,2448,Reactor,反应器
+CURRENT,object_reactor,2448,Reactor,反应堆
 CURRENT,object_reactor_description,3400,"Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.","燃烧高能燃料产生动力。必须通过管道供应燃料。然后使用电缆连接到其他供电设备。\n\n最大输出功率为 100 兆瓦。"
 CURRENT,object_refinedmetreon,2448,"Refined Metreon",精炼梅特里昂
 CURRENT,object_refinery,2448,Refinery,精炼厂
@@ -1745,7 +1745,7 @@ CURRENT,powergrid_category_ftl,2448,FTL,跃迁引擎
 CURRENT,powergrid_category_lifesupport,2448,"LIFE SUPPORT",生命支持
 CURRENT,powergrid_category_logistics,2448,LOGISTICS,货运
 CURRENT,powergrid_category_other,2448,OTHER,其他
-CURRENT,powergrid_category_reactor,2448,REACTOR,反应器
+CURRENT,powergrid_category_reactor,2448,REACTOR,反应堆
 CURRENT,powergrid_category_science,2448,SCIENCE,科学
 CURRENT,powergrid_category_stargate,2624,STARGATE,星门
 CURRENT,powergrid_category_weapons,2448,WEAPONS,武器
@@ -1884,7 +1884,7 @@ CURRENT,scienceobjective_scientist,2448,"Research Institute",研究所
 CURRENT,scienceobjective_sensorsinstalled,2448,"Sensors Installed",传感器已安装
 CURRENT,scienceobjective_success,2448,"Captured *X Data","捕获 *X 数据"
 CURRENT,scienceobjective_successbonus,2448,"Captured *X Data. Funding bonus $*Y.","捕获 *X 数据。资金奖励 $*Y。"
-CURRENT,scienceobjective_title,2448,"SPECIAL MISSION: ANALYSE ANOMALY",特别任务分析异常点
+CURRENT,scienceobjective_title,2448,"SPECIAL MISSION: ANALYSE ANOMALY",特别任务：分析异常点
 CURRENT,scienceobjective_usesensors1,2448,"These sensors will collect data from the anomaly while you are in Hyperspace.",当您在超空间时这些传感器将收集异常点的数据。
 CURRENT,scienceobjective_usesensors2,2448,"The closer you can hyperjump to the anomaly, the faster they will collect data.",您超空间跳跃到离异常点越近的地方它们收集数据的速度就越快。
 CURRENT,sector_start,2448,"HOME SECTOR",母星区
@@ -2781,7 +2781,7 @@ CURRENT,tutorial_fleetresources,2886,"We also need resources for the ship to fun
 CURRENT,tutorial_fleetspacesuits,2886,"Those crew will also need <b>SPACESUITS</b> as there is no atmosphere onboard our ship yet.\n\nOrder five <b>SPACESUITS</b> for the new crew.","这些船员还需要<b>空间站</b>因为我们的船上还没有大气层。\n\n为新船员订购五个<b>空间站</b>。"
 CURRENT,tutorial_fleettrade,2886,"The ship is fitted with engines and an <b>FTL</b> drive for Interstellar Travel! But it does need a crew.\n\nOpen the <b>TRADE</b> screen.","这艘飞船装有用于星际旅行的引擎和<b>超光速</b>驱动器\n\n打开<b>贸易</b>界面。"
 CURRENT,tutorial_fleettradeconfirm,2886,"<b>CONFIRM</b> the trade.",<b>确认</b>交易。
-CURRENT,tutorial_fleetwaitforpowerup,2448,"Your crew will now power up the ship and bring the engines and life support online.",现在您的船员将为飞船提供动力启动引擎和生命支持系统。
+CURRENT,tutorial_fleetwaitforpowerup,2448,"Your crew will now power up the ship and bring the engines and life support online.",现在您的船员将为飞船提供动力启动引擎和维生系统。
 CURRENT,tutorial_flight_title,2448,FLIGHT,飞行
 CURRENT,tutorial_flightengines,2886,"We can directly control our engine <b>THROTTLE</b> from here.\n\nTry increasing your engine throttle with this control.","我们可以在这里直接控制引擎的<b>油门</b>。\n\n尝试用这个控制器加大引擎油门。"
 CURRENT,tutorial_flightexittactical,2886,"Exit <b>TACTICAL</b> mode by clicking the button again, or pressing <b>{ToggleTactical}</b>.","再次单击按钮或按<b>{ToggleTactical}</b> 退出 <b>战术 </b>模式。"
