@@ -1418,7 +1418,7 @@ CURRENT,hud_buyship,2594,BUY,KUP
 CURRENT,hud_sellship,2594,SELL YOUR SHIP,SPRZEDAJ SWÓJ STATEK
 CURRENT,hud_repairship,2594,REPAIR,NAPRAWA
 CURRENT,hud_shipyardservices,2594,SHIPYARD SERVICES,USŁUGI STOCZNIOWE
-CURRENT,hud_fabricateship,2594,FABRICATE A SHIP,WYPRODUKUJ STATEK
+CURRENT,hud_fabricateship,2594,FABRICATE A SHIP,ZBUDUJ NOWY STATEK
 CURRENT,hud_tooltip_leftclickplace,2594,[LMB] Place,miejsce [LMB]
 CURRENT,hud_tooltip_leftclickbuild,2594,[LMB] Build,kompilacja [LMB]
 CURRENT,hud_tooltip_leftclickerase,2594,[LMB] Erase,kasowanie [LMB]
@@ -1737,7 +1737,7 @@ CURRENT,tactical_docked,2594,--- DOCKED ---,--- ZABLOKOWANY
 CURRENT,tactical_undock,2594,UNDOCK,UNDOCK
 CURRENT,tactical_throttle,2594,THROTTLE,THROTTLE
 CURRENT,tactical_detach_all,2594,DETACH ALL,ODŁĄCZ WSZYSTKO
-CURRENT,tactical_velocity,2594,VELOCITY,LOTNOŚĆ
+CURRENT,tactical_velocity,2594,VELOCITY,PRĘDKOŚĆ
 CURRENT,tactical_evasion,2594,EVASION,EVASION
 CURRENT,tactical_weapons,2594,WEAPONS,BROŃ
 CURRENT,tactical_fire,2594,FIRE,OGIEŃ
@@ -2685,8 +2685,8 @@ CURRENT,blackhole_part3_setup5,2594,"Once you take control of my ship, you'll fi
 CURRENT,blackhole_part3_setup6,2594,You won't have long.  Be as quick as you can and jump out of there when you're done.,"Nie potrwa to długo.  Proszę być tak szybkim, jak to tylko możliwe i wyskoczyć stamtąd, gdy tylko pan skończy."
 CURRENT,blackhole_part3_setup7,2594,"Good luck, Captain. I'll see you on the other side.","Powodzenia, kapitanie. Do zobaczenia po drugiej stronie."
 CURRENT,blackhole_part3_objective_control,2594,Take Control of Julian's ship,Proszę przejąć kontrolę nad statkiem Juliana
-CURRENT,blackhole_part3_objective_jumpin,2594,Jump to the stricken ship,Proszę wskoczyć na uszkodzony statek
-CURRENT,blackhole_part3_objective_dock,2594,Dock with the ship,Proszę zadokować do statku
+CURRENT,blackhole_part3_objective_jumpin,2594,Jump to the stricken ship,Wejdź na uszkodzony statek
+CURRENT,blackhole_part3_objective_dock,2594,Dock with the ship,Zadokuj do statku
 CURRENT,blackhole_part3_objective_rescue,2594,Rescue Dr. Marcus Martinez,Proszę uratować doktora Marcusa Martineza
 CURRENT,blackhole_part3_objective_jumpout,2594,Jump away from the black hole,Proszę odskoczyć od czarnej dziury
 CURRENT,blackhole_part3_objective_stargate,2594,Recover the Stargate data,Proszę odzyskać dane Gwiezdnych Wrót
