@@ -50,7 +50,7 @@ NEW,fighter_ammo_text,3561,BULLETS,弹药
 NEW,fighter_fuel_text,3561,FUEL,燃料
 NEW,fighter_refuelling_text,3561,REFUELLING..., 正在加油……
 NEW,fighter_create,3561,CREATE FIGHTER,创建战斗机
-NEW,fighter_state_attackinglayer,3561,ATTACKING *X,正在攻击 *X,
+NEW,fighter_state_attackinglayer,3561,ATTACKING *X,正在攻击 *X
 NEW,fighter_state_attackingfighter,3561,ATTACKING ENEMY FIGHTER, 正在攻击敌方战斗机
 NEW,fighter_state_returningtobay,3561,RETURNING TO BAY, 正在返回机库
 NEW,fighter_state_idleinfreespace,3561,SEARCHING FOR BAY, 正在寻找机库
